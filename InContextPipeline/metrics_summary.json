@@ -1,0 +1,9 @@
+{
+  "count": 997,
+  "with_avg_rougeL_f1_pct": 75.39783944567112,
+  "with_avg_sentence_bleu_pct": 63.78981833833237,
+  "no_avg_rougeL_f1_pct": 23.866150763287408,
+  "no_avg_sentence_bleu_pct": 17.929977258784064,
+  "delta_rougeL_f1_pct": 51.53168868238372,
+  "delta_sentence_bleu_pct": 45.8598410795483
+}

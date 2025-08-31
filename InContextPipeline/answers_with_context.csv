@@ -1,0 +1,998 @@
+qid,question,answer_with_context,model
+q_0,To whom did the Virgin Mary allegedly appear in 1858 in Lourdes France?,Saint Bernadette Soubirous,llama-3.1-8b-instant
+q_1,What is in front of the Notre Dame Main Building?,"A copper statue of Christ with arms upraised with the legend ""Venite Ad Me Omnes",llama-3.1-8b-instant
+q_10,Where is the headquarters of the Congregation of the Holy Cross?,Rome,llama-3.1-8b-instant
+q_100,In what year did the team lead by Knute Rockne win the Rose Bowl?,1925,llama-3.1-8b-instant
+q_101,How many years was Knute Rockne head coach at Notre Dame?,13 years,llama-3.1-8b-instant
+q_102,How many national titles were won when Knute Rockne coached at Notre Dame?,Three national championships,llama-3.1-8b-instant
+q_103,"Catholic people identified with Notre Dame, what religious group did people feel Yale represented?",Protestant establishment,llama-3.1-8b-instant
+q_104,Notre Dame students had a showdown in 1924 with which anti-catholic group?,The Ku Klux Klan,llama-3.1-8b-instant
+q_105,Which college president of Notre Dame is credited with preventing more confrontations between students and the KKK?,Fr,llama-3.1-8b-instant
+q_106,What type of event did the Klan intend to have at Notre Dame in March of 1924?,A week-long Klavern,llama-3.1-8b-instant
+q_107,Where did Notre Dame students and the KKK have their encounter?,South Bend,llama-3.1-8b-instant
+q_108,Which person became vice-president of Notre Dame in 1933?,UNKNOWN,llama-3.1-8b-instant
+q_109,Who was the president of Notre Dame in 1934?,Holy Cross Father John Francis O'Hara,llama-3.1-8b-instant
+q_11,What is the primary seminary of the Congregation of the Holy Cross?,Moreau Seminary,llama-3.1-8b-instant
+q_110,Irvin Abell was given what award by Notre Dame?,Laetare Medal,llama-3.1-8b-instant
+q_111,Which year was the Laetare Medal first given out at Notre Dame?,1883,llama-3.1-8b-instant
+q_112,For whos glory did Father O'Hara believed that the Notre Dame football team played?,God and his Blessed Mother,llama-3.1-8b-instant
+q_113,Around the time that Rev. Cavanaugh became president of Notre Dame by how much did the undergrad student body of Notre Dame increase?,More than half,gemma2-9b-it
+q_114,Which institute involving animal life did Cavanaugh create at Notre Dame?,Lobund Institute for Animal Studies,gemma2-9b-it
+q_115,What is O'Shaughnessy Hall of Notre Dame formerly known as?,Hall of Liberal Arts,gemma2-9b-it
+q_116,Which president did Notre Dame have in 1947?,John J,gemma2-9b-it
+q_117,"Outside of an institute studying animals, what other institute did Cavanugh create at Notre Dame?",UNKNOWN,gemma2-9b-it
+q_118,What was the lifespan of Theodore Hesburgh?,1917–2015,gemma2-9b-it
+q_119,In the time that Hesburgh was president of Notre Dame by what factor did the operating budget increase?,18,gemma2-9b-it
+q_12,What is the oldest structure at Notre Dame?,Old College,gemma2-9b-it
+q_120,What was the size of the Notre Dame endowment when Theodore Hesburgh became president?,$9 million,gemma2-9b-it
+q_121,During what years was Theodor Hesburgh president of Notre Dame?,1952–87,gemma2-9b-it
+q_122,How many faculty members were at Notre Dame when Hesburgh left the role of president?,950,gemma2-9b-it
+q_123,What type of educational institute is Hesburgh given credit for creating at Notre Dame?,Coeducational,gemma2-9b-it
+q_124,Which role did Charles Sheedy have at Notre Dame?,Dean of Arts and Letters,gemma2-9b-it
+q_125,What title did Thomas Blantz have at Notre Dame?,Vice President of Student Affairs,gemma2-9b-it
+q_126,In what year did Notre Dame have its earliest undergraduate that was female?,1971,gemma2-9b-it
+q_127,With what institute did Notre Dame agree to an exchange program in the 1960s?,Saint Mary's College,gemma2-9b-it
+q_128,During what years was Edward Malloy president of Notre Dame?,1987–2005,gemma2-9b-it
+q_129,"What was the SAT score, on average, at Notre Dame when Edward Malloy became president?",1240,gemma2-9b-it
+q_13,What individuals live at Fatima House at Notre Dame?,Retired priests and brothers,gemma2-9b-it
+q_130,When Malloy became president of Notre Dame what was the size of the endowment?,$350 million,gemma2-9b-it
+q_131,When Malloy reached the end of his time as president how much annuals funding for research did Notre Dame have?,$70 million,gemma2-9b-it
+q_132,The amount of professors at Notre Dame increased by what amount under Malloy?,500,gemma2-9b-it
+q_133,When did John Jenkins become the president of Notre Dame?,"July 1, 2005",gemma2-9b-it
+q_134,"In terms of the amount of presidents Notre Dame has had, where is John Jenkins on the list?",17th,gemma2-9b-it
+q_135,Who was the Notre Dame president that preceded John Jenkins?,Malloy,gemma2-9b-it
+q_136,Which arena was constructed under Jenkins at Notre Dame?,Compton Family Ice Arena,gemma2-9b-it
+q_137,How much money was spent on enhancing Notre Dame Stadium under John Jenkins?,$400m,gemma2-9b-it
+q_138,Which congregation is in charge of the Old College at Notre Dame?,Congregation of Holy Cross,gemma2-9b-it
+q_139,What structure is found on the location of the original church of Father Sorin at Notre Dame?,Basilica of the Sacred Heart,gemma2-9b-it
+q_14,Which prize did Frederick Buechner create?,Buechner Prize for Preaching,gemma2-9b-it
+q_140,In which architectural style is the Basilica of the Sacred Heart at Notre Dame made?,French Revival,gemma2-9b-it
+q_141,Which individual painted the inside of the Basilica of the Sacred Heart at Notre Dame?,Luigi Gregori,gemma2-9b-it
+q_142,In what year was the Grotto of Our Lady of Lourdes at Notre Dame constructed?,1896,gemma2-9b-it
+q_143,Which person oversaw the creation of a science hall at Notre Dame in 1883?,Fr,gemma2-9b-it
+q_144,In what year did the student union building at Notre Dame get renamed to LaFortune Center?,1950,gemma2-9b-it
+q_145,After which individual was the LaFortune Center Notre Dame named?,Joseph LaFortune,gemma2-9b-it
+q_146,How large in square feet is the LaFortune Center at Notre Dame?,"83,000",gemma2-9b-it
+q_147,What is the annual budget of Notre Dame's LaFortune Center?,$1,gemma2-9b-it
+q_148,How many halls are at Notre Dame that house students?,43,gemma2-9b-it
+q_149,Which library was built at Notre Dame in 1963?,Theodore M,gemma2-9b-it
+q_15,How many BS level degrees are offered in the College of Engineering at Notre Dame?,8,gemma2-9b-it
+q_150,How many books are housed at the Theodore Hesburgh Library?,almost 4 million,gemma2-9b-it
+q_151,Construction for which hall started on March 8th 2007 at Notre Dame?,Duncan Hall,gemma2-9b-it
+q_152,Which baseball stadium is found at Notre Dame?,Frank Eck Stadium,gemma2-9b-it
+q_153,In what year did Notre Dame create the Office of Sustainability?,2008,gemma2-9b-it
+q_154,What percentage of the food served at Notre Dame is locally grown?,40%,gemma2-9b-it
+q_155,"Notre Dame got a ""B"" for its sustainability practices from which entity?",Sustainable Endowments Institute,gemma2-9b-it
+q_156,Gustavo Gutierrez is faculty of which institute?,Kroc Institute for International Peace Studies,gemma2-9b-it
+q_157,In what year did Notre Dame first have a facility in England?,1968,gemma2-9b-it
+q_158,At which location is the London Center operated by Notre Dame found?,1 Suffolk Street in Trafalgar Square,gemma2-9b-it
+q_159,"Notre Dame has a center in Beijing, what is it referred to as?",UNKNOWN,gemma2-9b-it
+q_16,In what year was the College of Engineering at Notre Dame formed?,1920,gemma2-9b-it
+q_160,In what year did the Suffolk Street location start to house a Notre Dame facility?,1998,gemma2-9b-it
+q_161,What was Notre Dame's first college?,UNKNOWN,gemma2-9b-it
+q_162,In what year was the The College of Arts and Letters at Notre Dame created?,1842,gemma2-9b-it
+q_163,In what year did the College of Arts and Letters at Notre Dame grant its first degree?,1849,gemma2-9b-it
+q_164,On which university did Notre Dame base its curriculum on?,Saint Louis University,gemma2-9b-it
+q_165,How many BA majors does the College of Arts and Letters at Notre Dame offer?,33,gemma2-9b-it
+q_166,Which president at Notre Dame created the College of Science?,Father Patrick Dillon,gemma2-9b-it
+q_167,In what year was the Notre Dame College of Science formed?,UNKNOWN,gemma2-9b-it
+q_168,How many years long was a scientific course under Patrick Dillon at Notre Dame?,6,gemma2-9b-it
+q_169,Which hall at Notre Dame contains the current College of Science?,UNKNOWN,gemma2-9b-it
+q_17,Before the creation of the College of Engineering similar studies were carried out at which Notre Dame college?,College of Science,gemma2-9b-it
+q_170,How many undergrad students attend the College of Science at Notre Dame today?,UNKNOWN,gemma2-9b-it
+q_171,In 1899 Notre Dame formed which college?,School of Architecture,gemma2-9b-it
+q_172,In what building is the current School of Architecture housed at Notre Dame?,Bond Hall,gemma2-9b-it
+q_173,What length is the course of study at the Notre Dame School of Architecture?,five years,gemma2-9b-it
+q_174,In which location do students of the School of Architecture of Notre Dame spend their 3rd year?,Rome,gemma2-9b-it
+q_175,Which prestigious prize does the School of Architecture at Notre Dame give out?,Driehaus Architecture Prize,gemma2-9b-it
+q_176,In what year did the opening of a theology library at Notre Dame occur?,2015,gemma2-9b-it
+q_177,Where is the theology library at Notre Dame?,Stanford Hall,gemma2-9b-it
+q_178,How many books are held by the Notre Dame libraries?,Almost 4 million,gemma2-9b-it
+q_179,Currently where does Notre Dame's library rank in the nation?,UNKNOWN,gemma2-9b-it
+q_18,How many departments are within the Stinson-Remick Hall of Engineering?,UNKNOWN,gemma2-9b-it
+q_180,What caused many intellectual Catholics to leave europe in the 1930s?,The rise of Hitler and other dictators,gemma2-9b-it
+q_181,From where did Anton-Hermann Chroust come to reach Notre Dame?,UNKNOWN,gemma2-9b-it
+q_182,What field of study did Anton-Hermann Chroust specialize in?,UNKNOWN,gemma2-9b-it
+q_183,Who did Waldemar Gurian receive his tutelage under while seeking his doctorate?,Max Scheler,gemma2-9b-it
+q_184,What was Ivan Meštrović known for being?,A renowned sculptor,gemma2-9b-it
+q_185,"The school known as Notre Dame is known by a more lengthy name, what is it?",The University of Notre Dame du Lac,gemma2-9b-it
+q_186,What type of institution is the Notre Dame?,University,gemma2-9b-it
+q_187,The French words Notre Dame du Lac translate to what in English?,Our Lady of the Lake,gemma2-9b-it
+q_188,Who is the patron saint of Notre Dame?,The Virgin Mary,gemma2-9b-it
+q_189,How large is Notre Dame in acres?,"1,250",gemma2-9b-it
+q_19,The College of Science began to offer civil engineering courses beginning at what time at Notre Dame?,1870s,gemma2-9b-it
+q_190,What caused Notre Dame to become notable in the early 20th century?,UNKNOWN,gemma2-9b-it
+q_191,Which 20th century Notre Dame football coach is most notable?,Knute Rockne,gemma2-9b-it
+q_192,Which athletic association are the student athletes at Notre Dame a part of?,NCAA,gemma2-9b-it
+q_193,How many students at Notre Dame received the Heisman Trophy?,7,gemma2-9b-it
+q_194,"There were multiple students from Notre Dame who entered the Pro Football Hall of Fame, how many?",UNKNOWN,gemma2-9b-it
+q_195,Where among US universities does Notre Dame rank?,UNKNOWN,gemma2-9b-it
+q_196,How many individual colleges are part of Notre Dame?,6,gemma2-9b-it
+q_197,Which prize does the Architecture School at Notre Dame give out?,Driehaus Architecture Prize,gemma2-9b-it
+q_198,How many doctorate and masters programs are available at Notre Dame?,More than 50,gemma2-9b-it
+q_199,Which art museum does Notre Dame administer?,Snite Museum of Art,gemma2-9b-it
+q_2,The Basilica of the Sacred heart at Notre Dame is beside to which structure?,The Main Building,gemma2-9b-it
+q_20,What entity provides help with the management of time for new students at Notre Dame?,Learning Resource Center,gemma2-9b-it
+q_200,In what year was Father Edward Sorin given two years to create a college?,1842,gemma2-9b-it
+q_201,Which individual offered land to Father Edward Sorin?,"Bishop of Vincennes, Célestine Guynemer de la Hailandière",gemma2-9b-it
+q_202,Which church was Father Edward Sorin representing?,Catholic,gemma2-9b-it
+q_203,On what date did brothers from Holy Cross arrive at the future location of Notre Dame?,"November 26, 1842",gemma2-9b-it
+q_204,Which structure was the first used for the purposes of the college?,Main Building,gemma2-9b-it
+q_205,In what year did the initial degrees get handed out at Notre Dame?,1898,gemma2-9b-it
+q_206,In what year did the original Sorin built Main Building get replaced?,1865,gemma2-9b-it
+q_207,Which individual began a library at Notre Dame?,UNKNOWN,gemma2-9b-it
+q_208,"In what year had the library at Notre Dame reach 10,000 books?",UNKNOWN,gemma2-9b-it
+q_209,In what year was the library at Notre Dame started?,UNKNOWN,gemma2-9b-it
+q_21,How many colleges for undergraduates are at Notre Dame?,4,gemma2-9b-it
+q_210,Which television station finds its home at Notre Dame?,NDtv,gemma2-9b-it
+q_211,How many programs did NDtv feature in 2002?,1,gemma2-9b-it
+q_212,Which radio station provides radio to the students of Notre Dame at 88.9 FM?,WSND-FM,gemma2-9b-it
+q_213,Which internet radio station of Notre Dame is served as an internet stream?,WVFI,gemma2-9b-it
+q_214,How much is Eddy Street Commons at Notre Dame expected to cost?,$215 million,gemma2-9b-it
+q_215,When was ground broke on the Eddy Street Commons Project of Notre Dame?,"June 3, 2008",gemma2-9b-it
+q_216,Who is the developer of Eddy Street Commons?,Kite Realty,gemma2-9b-it
+q_217,Which entity did Notre Dame hire to build a parking structure outside of Eddy Street Commons?,City of South Bend,gemma2-9b-it
+q_218,"There were protested as a part of the construction at Eddy Street Commons, they came due tot he hiring of whom?",non-union workers,gemma2-9b-it
+q_219,What does the acronym NCAA stand for?,National Collegiate Athletic Association,gemma2-9b-it
+q_22,What was created at Notre Dame in 1962 to assist first year students?,The First Year of Studies program,gemma2-9b-it
+q_220,Which league did Notre Dame Fighting Irish teams participate in in 1982?,Horizon League,gemma2-9b-it
+q_221,What when conference do the Notre Dame fencing teams take part in?,Midwest Fencing Conference,gemma2-9b-it
+q_222,"There is a conference that the male hockey team of Notre Dame competes in, what is it?",Hockey East,gemma2-9b-it
+q_223,In what conference did the Fighting Irish take part in in 2012?,Big East Conference,gemma2-9b-it
+q_224,To what conference did the Fighting Irish go after the Big East?,ACC,gemma2-9b-it
+q_225,How many teams in each season do the Fighting Irish commit to play against ACC opponents?,5,gemma2-9b-it
+q_226,"Where did the Fighting Irish hockey team compete prior to a move to Hockey East, in terms of conference?",Central Collegiate Hockey Association,gemma2-9b-it
+q_227,What colors are the official ones used by Notre Dame in sport competition?,Navy Blue and Gold Rush,gemma2-9b-it
+q_228,What type of mascot do the Notre Dame sport teams have?,Leprechaun,gemma2-9b-it
+q_229,Who currently provides uniforms to Notre Dame sport teams?,Under Armour,gemma2-9b-it
+q_23,"Which organization declared the First Year of Studies program at Notre Dame ""outstanding?""",U,gemma2-9b-it
+q_230,What is the value of the contract between Under Armour and Notre Dame?,almost $100 million,gemma2-9b-it
+q_231,When did the Notre Dame marching band form?,1846,gemma2-9b-it
+q_232,What is notable about the Notre Dame marching band?,It is the oldest university band in continuous existence in the United States,gemma2-9b-it
+q_233,What is the Notre Dame fight song?,Notre Dame Victory March,gemma2-9b-it
+q_234,Which team did Notre Dame's football team find inspiration from?,Army,gemma2-9b-it
+q_235,In what year did Notre Dame football begin?,1887,gemma2-9b-it
+q_236,What university is Notre Dame tied with in terms of most Heisman Trophy winners?,Ohio State University,gemma2-9b-it
+q_237,Against which team does Notre Dame compete for the Jeweled Shillelagh?,USC,gemma2-9b-it
+q_238,In terms of Notre Dame students in the College Football Hall of Fame the amount of students named is what ?,62,gemma2-9b-it
+q_239,What notable football player played at Notre Dame from 1916 to 1920?,George Gipp,gemma2-9b-it
+q_24,The granting of Doctorate degrees first occurred in what year at Notre Dame?,1924,gemma2-9b-it
+q_240,"Against which opponent did Knute Rockne tell his team to ""win one for the Gipper?""",Army,gemma2-9b-it
+q_241,"Which person portrayed Knute Rockne in the 1940 movie ""Knute Rockne?""",Pat O'Brien,gemma2-9b-it
+q_242,"Ronald Reagan played the role of whom in 1940's ""Knute Rockne?""",George Gipp,gemma2-9b-it
+q_243,How many seats are in Notre Dame Stadium?,"80,795",gemma2-9b-it
+q_244,What is displayed at Zahm House for football home games at Notre Dame?,two-story banner,gemma2-9b-it
+q_245,What occurs at midnight preceding a football home game at Notre Dame?,Drummers' Circle,gemma2-9b-it
+q_246,From where does the Band of the Fighting Irish lead a march to the Notre Dame Stadium for football home games?,Bond Hall,gemma2-9b-it
+q_247,What songs does the trumpet section of the Band of the Fighting Irish play preceding home football games?,The Notre Dame Victory March and the Notre Dame Alma Mater,gemma2-9b-it
+q_248,On what day do Notre Dame home football games occur?,Saturday,gemma2-9b-it
+q_249,How many wins does the Notre Dame men's basketball team have?,"Over 1,600",gemma2-9b-it
+q_25,What type of degree is an M.Div.?,Master of Divinity,gemma2-9b-it
+q_250,How many schools have a similar men's basketball record to Notre Dame in terms of wins?,12,gemma2-9b-it
+q_251,How many NCAA tournaments did the Notre Dame men's basketball team take part in?,28,gemma2-9b-it
+q_252,Which Notre Dame men's basketball player has the record for more points in one game?,Austin Carr,gemma2-9b-it
+q_253,Who was the Notre Dame men's basketball coach in 2014?,Mike Brey,gemma2-9b-it
+q_254,Who wrote the original lyrics to the Notre Dame Victory March?,John F,gemma2-9b-it
+q_255,In what year did Michael J. Shea graduate from Notre Dame?,1904,gemma2-9b-it
+q_256,"Who is responsible for writing the music for ""Notre Dame Victory March?""",Rev,gemma2-9b-it
+q_257,"In what year did ""Notre Dame Victory March"" get copyrighted?",1928,gemma2-9b-it
+q_258,"To where are the loyal sons in ""Notre Dame Fight Song"" marching?",onward to victory,gemma2-9b-it
+q_259,"Ronald Reagan had a nickname, what was it?",The Gipper,gemma2-9b-it
+q_26,Which program at Notre Dame offers a Master of Education degree?,Alliance for Catholic Education program,gemma2-9b-it
+q_260,"In what film did a parody of the ""Win one for the Gipper"" speech appear?",Airplane,gemma2-9b-it
+q_261,Who starred as Daniel Ruettiger in the film Rudy?,Sean Astin,gemma2-9b-it
+q_262,Which person was a former comrade to Ted Striker in the film Airplane!?,George Zipp,gemma2-9b-it
+q_263,Pat O'Brien portrayed which person in the film Knute Rockne?,Knute Rockne,gemma2-9b-it
+q_264,Which Secretary of State attended Notre Dame?,Condoleezza Rice,gemma2-9b-it
+q_265,Which Notre Dame alum from the College of Science won a Nobel Prize?,Eric F,gemma2-9b-it
+q_266,Who is the current president of Notre Dame?,The Rev,gemma2-9b-it
+q_267,Mariel Zagunis is notable for winning what?,Olympic gold medal,gemma2-9b-it
+q_268,Which notable astronaut is known to have attended Notre Dame?,Jim Wetherbee,gemma2-9b-it
+q_269,When did Beyonce start becoming popular?,Since the release of Dangerously in Love,gemma2-9b-it
+q_27,In what year was a Master of Arts course first offered at Notre Dame?,1854-1855,gemma2-9b-it
+q_270,What areas did Beyonce compete in when she was growing up?,UNKNOWN,gemma2-9b-it
+q_271,When did Beyonce leave Destiny's Child and become a solo singer?,2003,gemma2-9b-it
+q_272,In what city and state did Beyonce grow up?,UNKNOWN,gemma2-9b-it
+q_273,In which decade did Beyonce become famous?,2000s,gemma2-9b-it
+q_274,In what R&B group was she the lead singer?,Destiny's Child,gemma2-9b-it
+q_275,What album made her a worldwide known artist?,The Writing's on the Wall,gemma2-9b-it
+q_276,Who managed the Destiny's Child group?,Mathew Knowles,gemma2-9b-it
+q_277,In what city did Beyonce grow up?,UNKNOWN,gemma2-9b-it
+q_278,What was the name of Beyonce's first solo album?,Dangerously in Love,gemma2-9b-it
+q_279,On what date was Beyonce born?,"September 4, 1981",gemma2-9b-it
+q_28,Which department at Notre Dame is the only one to not offer a PhD program?,Department of Pre-Professional Studies,gemma2-9b-it
+q_280,What is Beyonce's full name?,UNKNOWN,gemma2-9b-it
+q_281,When did Beyoncé rise to fame?,UNKNOWN,gemma2-9b-it
+q_282,What role did Beyoncé have in Destiny's Child?,Lead singer,gemma2-9b-it
+q_283,What was the first album Beyoncé released as a solo artist?,Dangerously in Love,gemma2-9b-it
+q_284,When did Beyoncé release Dangerously in Love?,"June 24, 2003",gemma2-9b-it
+q_285,How many Grammy awards did Beyoncé win for her first solo album?,5,gemma2-9b-it
+q_286,What was Beyoncé's role in Destiny's Child?,Lead singer,gemma2-9b-it
+q_287,What was the name of Beyoncé's first solo album?,Dangerously in Love,gemma2-9b-it
+q_288,When did Beyoncé release her first solo album?,"June 24, 2003",gemma2-9b-it
+q_289,"After her second solo album, what other entertainment venture did Beyonce explore?",Acting,gemma2-9b-it
+q_29,What institute at Notre Dame studies the reasons for violent conflict?,Joan B,gemma2-9b-it
+q_290,Which artist did Beyonce marry?,Jay Z,gemma2-9b-it
+q_291,"To set the record for Grammys, how many did Beyonce win?",UNKNOWN,gemma2-9b-it
+q_292,For what movie did Beyonce receive her first Golden Globe nomination?,Dreamgirls,gemma2-9b-it
+q_293,When did Beyonce take a hiatus in her career and take control of her management?,UNKNOWN,gemma2-9b-it
+q_294,Which album was darker in tone from her previous work?,Beyoncé (2013),gemma2-9b-it
+q_295,"After what movie portraying Etta James, did Beyonce create Sasha Fierce?",Cadillac Records,gemma2-9b-it
+q_296,When did Destiny's Child end their group act?,"June 11, 2005",gemma2-9b-it
+q_297,What was the name of Beyoncé's second solo album?,B'Day,gemma2-9b-it
+q_298,"What was Beyoncé's first acting job, in 2006?",The Pink Panther,gemma2-9b-it
+q_299,Who is Beyoncé married to?,Jay Z,gemma2-9b-it
+q_3,What is the Grotto at Notre Dame?,A Marian place of prayer and reflection,gemma2-9b-it
+q_30,What is the title of Notre Dame's Theodore Hesburgh?,President,gemma2-9b-it
+q_300,What is the name of Beyoncé's alter-ego?,Sasha Fierce,gemma2-9b-it
+q_302,Time magazine named her one of the most 100 what people of the century?,influential,gemma2-9b-it
+q_303,Which magazine declared her the most dominant woman musician?,Forbes,gemma2-9b-it
+q_304,In which decade did the Recording Industry Association of America recognize Beyonce as the The Top Certified Artist?,2000s,gemma2-9b-it
+q_305,What magazine rated Beyonce as the most powerful female musician in 2015?,Forbes,gemma2-9b-it
+q_306,How did Beyonce describe herself as a feminist?,a modern-day feminist,gemma2-9b-it
+q_307,In which years did Time rate Beyonce in the 100 most influential people in the world?,"2013, 2014",gemma2-9b-it
+q_308,How many records has Beyonce sold in her 19 year career?,118 million,gemma2-9b-it
+q_309,How many records did Beyoncé sell as part of Destiny's Child?,60 million,gemma2-9b-it
+q_31,In what year was the Joan B. Kroc Institute for International Peace Studies founded?,1986,gemma2-9b-it
+q_310,"After leaving Destiny's Child, how many records did Beyoncé release under her own name?",UNKNOWN,gemma2-9b-it
+q_311,How many Grammy awards has Beyoncé won?,20,gemma2-9b-it
+q_312,What magazine named Beyoncé as the most powerful female musician for 2015?,Forbes,gemma2-9b-it
+q_313,Beyonce's younger sibling also sang with her in what band?,Destiny's Child,gemma2-9b-it
+q_314,Where did Beyonce get her name from?,UNKNOWN,gemma2-9b-it
+q_315,What race was Beyonce's father?,UNKNOWN,gemma2-9b-it
+q_316,Beyonce's childhood home believed in what religion?,UNKNOWN,gemma2-9b-it
+q_317,Beyonce's father worked as a sales manager for what company?,Xerox,gemma2-9b-it
+q_318,Beyonce's mother worked in what industry?,Hairdressing,gemma2-9b-it
+q_319,What younger sister of Beyonce also appeared in Destiny's Child?,Solange,gemma2-9b-it
+q_32,To whom was John B. Kroc married?,Joan B,gemma2-9b-it
+q_320,Beyonce is a descendent of what Arcadian leader?,Joseph Broussard,gemma2-9b-it
+q_321,What company did Beyoncé's father work for when she was a child?,Grass Roots Entertainment,gemma2-9b-it
+q_322,What did Beyoncé's mother own when Beyoncé was a child?,A hair salon,gemma2-9b-it
+q_323,What is the name of Beyoncé's younger sister?,Solange,gemma2-9b-it
+q_324,Beyoncé is a descendant of which Acadian leader?,Joseph Broussard,gemma2-9b-it
+q_325,Beyoncé was raised in what religion?,Methodist,gemma2-9b-it
+q_326,What town did Beyonce go to school in?,Fredericksburg,gemma2-9b-it
+q_327,Who was the first person to notice Beyonce's singing ability?,UNKNOWN,gemma2-9b-it
+q_328,Beyonce moved to which town after she left her first elementary school?,Houston,gemma2-9b-it
+q_329,Which of her teachers discovered Beyonce's musical talent?,Darlette Johnson,gemma2-9b-it
+q_33,What company did Ray Kroc own?,McDonald's,gemma2-9b-it
+q_330,I which church was Beyonce a member and soloist in the choir?,St,gemma2-9b-it
+q_331,What type of school was Parker Elementary School?,music magnet school,gemma2-9b-it
+q_332,Which song did Beyonce sing to win a competition at age 7?,Imagine,gemma2-9b-it
+q_333,What city was Beyoncé's elementary school located in?,Fredericksburg,gemma2-9b-it
+q_334,What was the name of Beyoncé's first dance instructor?,Darlette Johnson,gemma2-9b-it
+q_335,How old was Beyoncé when she won a school talent show?,seven,gemma2-9b-it
+q_336,What choir did Beyoncé sing in for two years?,St,gemma2-9b-it
+q_337,Who decided to place Beyonce's group in Star Search the talent show?,Arne Frager,gemma2-9b-it
+q_338,"In 1995, who decided to manage the girls singing group?",Mathew Knowles,gemma2-9b-it
+q_339,Who was the first record label to give the girls a record deal?,Elektra Records,gemma2-9b-it
+q_34,How many stories tall is the main library at Notre Dame?,14,gemma2-9b-it
+q_340,Who brought Beyonce to California and enter her group in Star Search?,Arne Frager,gemma2-9b-it
+q_341,In what year did Beyonce's father quit his job to manage her group?,1995,gemma2-9b-it
+q_342,What large record company recorded Beyonce's group's first album?,Columbia Records,gemma2-9b-it
+q_343,What record company first signed Beyonce's group and later cut them?,Elektra Records,gemma2-9b-it
+q_344,At what age did Beyonce meet LaTavia Robertson?,8,gemma2-9b-it
+q_345,How old was Beyoncé when she met LaTavia Roberson?,8,gemma2-9b-it
+q_346,What was the name of the first group Beyoncé was a part of?,Destiny's Child,gemma2-9b-it
+q_347,Who placed Girl's Tyme in Star Search?,Arne Frager,gemma2-9b-it
+q_348,When did Beyoncé begin to manage the girl group?,1995,gemma2-9b-it
+q_349,"Who signed the girl group on October 5, 1995?",Dwayne Wiggins's Grass Roots Entertainment,gemma2-9b-it
+q_35,What is the name of the main library at Notre Dame?,Theodore M,gemma2-9b-it
+q_350,Which film featured Destiny's Child's first major single?,Men in Black,gemma2-9b-it
+q_351,"For which song, did Destiny's Child take home the grammy award for best R&B performance?",Say My Name,gemma2-9b-it
+q_352,"Who did Beyonce record with for the movie ""The Best Man?""",Marc Nelson,gemma2-9b-it
+q_353,Beyonce's group changed their name to Destiny's Child in what year?,1996,gemma2-9b-it
+q_354,The name Destiny's Child was based on a quote in which book of the Bible?,Isaiah,gemma2-9b-it
+q_355,"Debut song, ""Killing Time"" was featured on what movie's sound track?",Men in Black,gemma2-9b-it
+q_356,What song won Best R&B Performance in the 43 Annual Grammy Awards?,Say My Name,gemma2-9b-it
+q_357,"What singer did Beyonce record a song with for the movie, ''The Best Man""?",Marc Nelson,gemma2-9b-it
+q_358,Where did Destiny's Child get their name from?,A passage in the Book of Isaiah,gemma2-9b-it
+q_359,"Destiny's Child song, Killing Time, was included in which film's soundtrack?",Men in Black,gemma2-9b-it
+q_36,In what year was the Theodore M. Hesburgh Library at Notre Dame finished?,1963,gemma2-9b-it
+q_360,What was Destiny's Child's first major song hit?,"No, No, No",gemma2-9b-it
+q_361,When did Destiny's Child release their second album?,1999,gemma2-9b-it
+q_362,"Who did Beyoncé sing a duet with for ""The Best Man"" film?",Marc Nelson,gemma2-9b-it
+q_363,What mental health issue did Beyonce go through?,UNKNOWN,gemma2-9b-it
+q_364,What event occured after she was publicly criticized?,Beyoncé experienced depression,gemma2-9b-it
+q_365,Who supported Beyonce through her depression?,Her mother,gemma2-9b-it
+q_366,What event caused Beyonce's depression?,The split with Luckett and Roberson,gemma2-9b-it
+q_367,How long was Beyonce depressed?,A couple of years,gemma2-9b-it
+q_368,Who helped Beyonce fight her depression the most?,Her mother,gemma2-9b-it
+q_369,Who replaced Luckett and Roberson in Destiny's Child?,Farrah Franklin and Michelle Williams,gemma2-9b-it
+q_37,Which artist created the mural on the Theodore M. Hesburgh Library?,Millard Sheets,gemma2-9b-it
+q_370,Who was blamed for Luckett and Roberson leaving Destiny's Child?,Beyoncé,llama3-8b-8192
+q_371,Who helped Beyoncé overcome her depression during the years following the Destiny's Child split?,Her mother,llama3-8b-8192
+q_372,Which newest member was removed from Destiny's Child?,UNKNOWN,llama3-8b-8192
+q_373,"""Charlie's Angels"" featured which single from the band members?",Independent Women Part I,llama3-8b-8192
+q_374,"How many weeks did their single ""Independent Women Part I"" stay on top?",Eleven consecutive weeks,llama3-8b-8192
+q_375,"For what network, did Beyonce land a major movie role in?",MTV,llama3-8b-8192
+q_376,"Their third album, Survivor, sold how many during its first week?","663,000",llama3-8b-8192
+q_377,What French composer wrote the original opera ''Carmen'' in the 19th century?,Georges Bizet,llama3-8b-8192
+q_378,What album caused a lawsuit to be filed in 2001?,Survivor,llama3-8b-8192
+q_379,Independent Women Part I was on which 2000 film's soundtrack?,Charlie's Angels,llama3-8b-8192
+q_38,What is a common name to reference the mural created by Millard Sheets at Notre Dame?,Touchdown Jesus,llama3-8b-8192
+q_380,Which film did Beyoncé star in 2001 with Mekhi Phifer?,Carmen: A Hip Hopera,llama3-8b-8192
+q_381,What was the name of Destiny Child's third album?,Survivor,llama3-8b-8192
+q_382,Who filed a lawsuit over Survivor?,Luckett and Roberson,llama3-8b-8192
+q_383,When did Destiny's Child announce their hiatus?,"After releasing their holiday album 8 Days of Christmas in October 2001, the group announced a hiatus to further pursue solo careers",llama3-8b-8192
+q_384,"Who did Beyonce star with in the movie, ""Austin Powers in Goldmember""?",Mike Myers,llama3-8b-8192
+q_385,"Which three countries did Beyonce's song ""Work It Out"" achieve top ten status?",UNKNOWN,llama3-8b-8192
+q_386,Beyonce starred with Cuba Gooding Jr. in which film?,The Fighting Temptations,llama3-8b-8192
+q_387,"Who did Beyonce record the lead single with in the movie ""The Fighting Temptations""?","Missy Elliott, MC Lyte, and Free",llama3-8b-8192
+q_388,Which other song from the soundtrack did better in the charts?,Summertime,llama3-8b-8192
+q_389,What film did Beyonce appear in with Mike Myers?,Austin Powers in Goldmember,llama3-8b-8192
+q_39,How many incoming students did Notre Dame admit in fall 2015?,"3,577",llama3-8b-8192
+q_390,"What large amount did the movie ""Goldmember"" gross?",$73 million,llama3-8b-8192
+q_391,"What genre of movie did Beyonce star in with Cuba Gooding, Jr?",Musical comedy,llama3-8b-8192
+q_392,What song was the lead single from the film's sound track?,Work It Out,llama3-8b-8192
+q_393,"How did the critics view the movie, ''The Fighting Temptations''?",The film received mixed reviews from critics,llama3-8b-8192
+q_394,What film did Beyoncé star in with Mike Myers in 2002?,Austin Powers in Goldmember,llama3-8b-8192
+q_395,What was Beyoncé's character called in Austin Powers in Goldmember?,Foxxy Cleopatra,llama3-8b-8192
+q_396,Which song did Beyoncé release as the lead single for Austin Powers in Goldmember's soundtrack?,Work It Out,llama3-8b-8192
+q_397,"What musical comedy did Beyoncé star in along with Cuba Gooding, Jr. in 2003?",The Fighting Temptations,llama3-8b-8192
+q_398,What song did Beyoncé release as the lead single from The Fighting Tempations?,Fighting Temptation,llama3-8b-8192
+q_399,What was the highest Beyonce's first solo recording achieved in the Billboard Hot 100?,number four,llama3-8b-8192
+q_4,What sits on top of the Main Building at Notre Dame?,"The Word of Life mural, also known as ""Touchdown Jesus",llama3-8b-8192
+q_40,What percentage of students were admitted to Notre Dame in fall 2015?,19,llama3-8b-8192
+q_400,Beyonce's first album by herself was called what?,UNKNOWN,llama3-8b-8192
+q_401,"How many has ""Dangerously in Love"" sould worldwide since its debut?",11 million,llama3-8b-8192
+q_402,Beyonce's first number one song was which song?,"Bills, Bills, Bills",llama3-8b-8192
+q_403,How many top five singles came from her first album?,Three,llama3-8b-8192
+q_404,Beyonce's first solo album in the U.S. with what artist in the lead single?,Jay Z,llama3-8b-8192
+q_405,What solo album did Beyonce release in 2003?,Dangerously in Love,llama3-8b-8192
+q_406,"The album, Dangerously in Love achieved what spot on the Billboard Top 100 chart?",number four,llama3-8b-8192
+q_407,"""The Closer I get to You"" was recorded with which artist?",Luther Vandross,llama3-8b-8192
+q_408,Which artist was associated with Beyoncé's premiere solo recording?,Destiny's Child,llama3-8b-8192
+q_409,When did Beyoncé release her first solo album?,"June 24, 2003",llama3-8b-8192
+q_41,Where does Notre Dame rank in terms of academic profile among research universities in the US?,Among the top 10 to 15 in the nation for national research universities,llama3-8b-8192
+q_410,What is the lead single on Beyoncé's first album?,Crazy in Love,llama3-8b-8192
+q_411,Who helped Beyoncé earn a Grammy award for Best R&B Performance by a Duo or Group at the 46th annual Grammy Awards?,Luther Vandross,llama3-8b-8192
+q_412,How many awards did Beyoncé win at the 46th Grammy's Awards?,Five,llama3-8b-8192
+q_413,Destiny's Child's final album was named what?,Destiny Fulfilled,llama3-8b-8192
+q_414,Destiny's Child got a star on the Hollywood Walk of Fame in what year?,March 2006,llama3-8b-8192
+q_415,In what year did Beyonce embark on her Dangerously in Love tour of Europe?,November 2003,llama3-8b-8192
+q_416,What was the name of the final album of Destiny's Child?,Destiny Fulfilled,llama3-8b-8192
+q_417,It was announced that Destiny's Child would disban in what European city?,Barcelona,llama3-8b-8192
+q_418,When did Destiny's Child get their star on the Hollywood Walk of Fame?,March 2006,llama3-8b-8192
+q_419,What was the name of Beyoncé's European start that started in November 2003?,Dangerously in Love Tour,llama3-8b-8192
+q_42,What percentage of students at Notre Dame participated in the Early Action program?,39,llama3-8b-8192
+q_420,Who did Beyoncé tour with for the Verizon Lades First Tour?,Missy Elliott and Alicia Keys,llama3-8b-8192
+q_421,"What major event did Beyoncé perform at on February 1, 2004?",Super Bowl XXXVIII,llama3-8b-8192
+q_422,What is the name of the final studio album from Destiny's Child?,Destiny Fulfilled,llama3-8b-8192
+q_423,How many albums did Beyonce sell in the first week when she released her second album?,"541,000",llama3-8b-8192
+q_424,The lead single from the album was which song?,Déjà Vu,llama3-8b-8192
+q_425,"How many countries did her song ""Irreplaceable"" get number one status in?",5,llama3-8b-8192
+q_426,How many singles did her second album produce?,Five singles,llama3-8b-8192
+q_427,What birthday did Beyonce's album B'Day celebrate?,Twenty-fifth,llama3-8b-8192
+q_428,"What artist did Beyonce duet with in the single, ""Deja Vu''?",Jay Z,llama3-8b-8192
+q_429,How high did ''Deja Vu'' climb on the Billboard chart?,Top five,llama3-8b-8192
+q_43,How many miles does the average student at Notre Dame travel to study there?,750,llama3-8b-8192
+q_430,What is the name of Beyoncé's second album?,B'Day,llama3-8b-8192
+q_431,How many copies did B'Day sell during the first week of its release?,"541,000",llama3-8b-8192
+q_432,"Who collaborated with Beyoncé on the single, Deja Vu?",Jay Z,llama3-8b-8192
+q_433,Which single from B'Day was only released in the U.K.?,Green Light,llama3-8b-8192
+q_434,What movie did Beyonce act in 2006?,Dreamgirls,llama3-8b-8192
+q_435,Her second movie Beyonce did was what film?,The Pink Panther,llama3-8b-8192
+q_436,"The single, ""Listen"" was featured in which movie?",Dreamgirls,llama3-8b-8192
+q_437,Beyonce's first world tour was when?,2003,llama3-8b-8192
+q_438,How much money did Beyonce's tour make in 2007?,UNKNOWN,llama3-8b-8192
+q_439,How many millions of dollars did ''The Pink Panther'' gross world-wide?,$158,llama3-8b-8192
+q_44,Where did U.S. News & World Report rank Notre Dame in its 2015-2016 university rankings?,UNKNOWN,llama3-8b-8192
+q_440,What did Beyonce call her first concert tour?,The Dangerously in Love Tour,llama3-8b-8192
+q_441,Who was Beyonce's duet with in ''Beautiful Liar''?,Shakira,llama3-8b-8192
+q_442,Which film did Beyoncé star with Steve Martin in?,The Pink Panther,llama3-8b-8192
+q_443,Beyoncé's role in Dreamgirls was based on what pop singer?,Diana Ross,llama3-8b-8192
+q_444,What was the lead single for the Dreamgirls soundtrack?,Listen,llama3-8b-8192
+q_445,What was the name of Beyoncé's first international tour?,Dangerously in Love Tour,llama3-8b-8192
+q_446,What pop singer did a duet with Beyoncé on Beautiful Liar?,Shakira,llama3-8b-8192
+q_447,Beyonce got married in 2008 to whom?,Jay Z,llama3-8b-8192
+q_448,"Her third album, ""I am...Sasha Fierce"" was released when?","November 18, 2008",llama3-8b-8192
+q_449,"For which decade, did Beyonce have more top ten songs than any other woman?",2000s,llama3-8b-8192
+q_45,Forbes.com placed Notre Dame at what position compared to other US research universities?,UNKNOWN,llama3-8b-8192
+q_450,Which singer beat out Beyonce for best video performance?,Taylor Swift,llama3-8b-8192
+q_451,"In 2009, Beyonce started her second world tour and grossed how much money?",$119,llama3-8b-8192
+q_452,How did she reveal the marriage?,"In a video montage at the listening party for her third studio album, I Am",llama3-8b-8192
+q_453,When did Beyonce begin her second world tour?,2009–2010,llama3-8b-8192
+q_454,Who beat out Beyonce for Best Female Video ?,Taylor Swift,llama3-8b-8192
+q_455,How much did the second world tour make in dollars?,$80 million,llama3-8b-8192
+q_456,When did Beyoncé get married?,"April 4, 2008",llama3-8b-8192
+q_457,Who did Beyoncé marry?,Jay Z,llama3-8b-8192
+q_458,Who is Beyoncé's alter ego?,Sasha Fierce,llama3-8b-8192
+q_459,The video for what song won Beyoncé the 2009 MTV Video of the Year award?,Single Ladies (Put a Ring on It),llama3-8b-8192
+q_46,The undergrad school at the Mendoza College of Business was ranked where according to BusinessWeek?,1st overall,llama3-8b-8192
+q_460,Which prominent star felt the 2009 Female Video of the Year award should have went to Beyoncé instead of Taylor Swift?,Kanye West,llama3-8b-8192
+q_461,"Beyonce portrayed which character in the film, Cadillac Records?",Etta James,llama3-8b-8192
+q_462,Beyonce gave her entire salary from Cadillac Records to which organization?,Phoenix House,llama3-8b-8192
+q_463,Which song did Beyonce sing at the first couple's inaugural ball?,At Last,llama3-8b-8192
+q_464,"What genre of film was the movie, Obsessed, in which Beyonce starred in?",Thriller,llama3-8b-8192
+q_465,"A fight scene from the movie, Obsessed, won which award for Beyonce?",2010 MTV Movie Award for Best Fight,llama3-8b-8192
+q_466,Where did Beyonce donate her salary from the movie Cadillac Records?,Phoenix House,llama3-8b-8192
+q_467,What thriller film did Beyonce star in?,Obsessed,llama3-8b-8192
+q_468,What was the name of the woman she played in Obsessed?,Sharon Charles,llama3-8b-8192
+q_469,How much more that the buget did the film gross?,$60 million,llama3-8b-8192
+q_47,In 2014 what entity named Notre Dame 10th best of all American universities?,USA Today,llama3-8b-8192
+q_470,Which singer did Beyoncé portray in Cadillac Records?,Etta James,llama3-8b-8192
+q_471,Which organization received Beyoncé's entire Cadillac Records salary?,Phoenix House,llama3-8b-8192
+q_472,"Where did Beyoncé perform on January 20, 2009?",The First Couple's first inaugural ball,llama3-8b-8192
+q_473,Which thriller film did Beyoncé star in with Ali Larter?,Obsessed,llama3-8b-8192
+q_474,How many awards was Beyonce nominated for at the 52nd Grammy Awards?,Ten,llama3-8b-8192
+q_475,Beyonce tied with which artist for most nominations by a female artist?,Lauryn Hill,llama3-8b-8192
+q_476,"In 2010, Beyonce worked with which other famous singer?",Gwyneth Paltrow,llama3-8b-8192
+q_477,"How many number one singles did Beyonce now have after the song ""Telephone""?",Six,llama3-8b-8192
+q_478,Beyonce tied who for most number one singles by a female?,Lady Gaga and Mariah Carey,llama3-8b-8192
+q_479,Beyonce received how many nominations at the 52nd Annual Grammy Awards?,Ten,llama3-8b-8192
+q_48,What percentage of Notre Dame students decide to study abroad?,57,llama3-8b-8192
+q_480,What song was the sixth first place song for Beyonce?,Telephone,llama3-8b-8192
+q_481,Who else appeared with Beyonce in Telephone?,Lady Gaga,llama3-8b-8192
+q_482,Who did they tie with for six top songs?,Mariah Carey,llama3-8b-8192
+q_483,Who did Beyonce tie with for the most nominations in a year?,Lauryn Hill,llama3-8b-8192
+q_484,How many nominations did Beyoncé receive at the 52nd Grammy Awards ceremony?,Ten,llama3-8b-8192
+q_485,Who did Beyoncé tie with for the most Grammy nominations for female artists?,Lauryn Hill,llama3-8b-8192
+q_486,"Beyoncé was a featured artist on which singer's hit, Telephone?",Lady Gaga,llama3-8b-8192
+q_487,Who did Beyoncé and Lady Gaga tie with for the most number one hits since 1992?,Mariah Carey,llama3-8b-8192
+q_488,Beyonce would take a break from music in which year?,January 2010,llama3-8b-8192
+q_489,Which year did Beyonce and her father part business ways?,2010,llama3-8b-8192
+q_49,What person was the Director of the Science Museum at Notre Dame in the late 19th century?,"Father Joseph Carrier, C",llama3-8b-8192
+q_490,Which famous landmark did Beyonce see in China?,The Great Wall of China,llama3-8b-8192
+q_491,In what year did Beyonce have her hiatus?,2010,llama3-8b-8192
+q_492,Who inspired this hiatus?,Her mother,llama3-8b-8192
+q_493,When did she stop using her father as a manager?,UNKNOWN,llama3-8b-8192
+q_494,How long did the hiatus last?,Nine months,llama3-8b-8192
+q_495,What did Beyoncé announce in January 2010?,a hiatus from her music career,llama3-8b-8192
+q_496,Who suggested the hiatus for Beyoncé?,Her mother,llama3-8b-8192
+q_497,Who did Beyoncé part ways with during her hiatus?,Her father,llama3-8b-8192
+q_498,How long did her hiatus last?,Nine months,llama3-8b-8192
+q_499,In which year was reports about Beyonce performing for Muammar Gaddafi surface?,2011,llama3-8b-8192
+q_5,When did the Scholastic Magazine of Notre dame begin publishing?,September 1876,llama3-8b-8192
+q_50,What was the lifespan of John Augustine Zahm?,1851–1921,llama3-8b-8192
+q_500,Who did Beyonce donate the money to earned from her shows?,The Clinton Bush Haiti Fund,llama3-8b-8192
+q_501,Beyonce became the first female artist to perform solo in 20 years at which stage?,Glastonbury Festival,llama3-8b-8192
+q_502,Which organization did Beyonce's spokespeople confirm her donations to?,The Clinton Bush Haiti Fund,llama3-8b-8192
+q_503,Beyonce was listed in 2011 as the highest paid performer per what?,per minute,llama3-8b-8192
+q_504,Hoe did everyone learn that Beyonce performed for Kaddafi?,UNKNOWN,llama3-8b-8192
+q_506,Who did she tell about the donation?,The Huffington Post,llama3-8b-8192
+q_507,Where did Beyonce perform in 2011?,"Libya, Glastonbury Festival, and MTV Video Music Awards",llama3-8b-8192
+q_508,Who did Beyoncé perform privately for in 2011?,The family of Libyan ruler Muammar Gaddafi,llama3-8b-8192
+q_509,Who released the information about Beyoncé's performance for the Libyan ruler?,WikiLeaks,llama3-8b-8192
+q_51,What program did John Augustine Zahm come to co-direct at Nore Dame?,Science Department,llama3-8b-8192
+q_510,Which organization did Beyoncé donate her pay for the private performance to?,The Clinton Bush Haiti Fund,llama3-8b-8192
+q_511,Beyoncé was the first female singer to headline what at the 2011 Glastonbury Festival?,main Pyramid stage,llama3-8b-8192
+q_512,Beyonce's fourth album debuted in what year?,2011,llama3-8b-8192
+q_513,Which single had the most success from that album?,Single Ladies (Put a Ring on It),llama3-8b-8192
+q_514,Beyonce won an award for which activity in 2011?,A writing award from the New York Association of Black Journalists,llama3-8b-8192
+q_515,"in 2011, Beyonce performed for four nights where?",Revel Atlantic City's Ovation Hall and New York's Roseland Ballroom,llama3-8b-8192
+q_516,When was Beyonce's forth album released?,UNKNOWN,llama3-8b-8192
+q_517,How many copies did the album sell in its first week?,"317,000",llama3-8b-8192
+q_518,Who awarded Beyonce and award for writing?,"American Society of Composers, Authors, and Publishers",llama3-8b-8192
+q_519,When did she perform at the Roseland ballroom?,Late 2011,llama3-8b-8192
+q_52,What book did John Zahm write in 1896?,Evolution and Dogma,llama3-8b-8192
+q_520,What is the name of Beyoncé's fourth studio album?,4,llama3-8b-8192
+q_521,When was 4 released?,"June 28, 2011",llama3-8b-8192
+q_522,How many copies of 4 sold in the first week?,"310,000",llama3-8b-8192
+q_523,What magazine did Beyoncé write a story for about her earlier hiatus?,Essence,llama3-8b-8192
+q_524,Where did Beyoncé perform for four nights of standing room only concerts in 2011?,New York's Roseland Ballroom,llama3-8b-8192
+q_525,When did Beyonce have her first child?,"January 7, 2012",llama3-8b-8192
+q_526,Where did Beyonce give birth to her first child?,Lenox Hill Hospital in New York,llama3-8b-8192
+q_527,Beyonce's first child is named what?,Blue Ivy Carter,llama3-8b-8192
+q_528,Her first appearance performing since giving birth was where?,Revel Atlantic City's Ovation Hall,llama3-8b-8192
+q_529,When did Beyonce have her first child?,"January 7, 2012",llama3-8b-8192
+q_53,What professorship did Father Josh Carrier hold at Notre Dame?,Professor of Chemistry and Physics,llama3-8b-8192
+q_530,What was the child's name?,Beyoncé Giselle Knowles,llama3-8b-8192
+q_531,How long was it after the birth of her child before she performed again?,Five months,llama3-8b-8192
+q_532,How many nights did she perform at Atlantic City?,Four nights,llama3-8b-8192
+q_533,When did Beyoncé give birth to a daughter?,"January 7, 2012",llama3-8b-8192
+q_534,What did Beyoncé name her daughter?,Blue Ivy Carter,llama3-8b-8192
+q_535,Where was Blue Ivy born?,Lenox Hill Hospital in New York,llama3-8b-8192
+q_536,Where was Beyoncé's first public performance after giving birth?,Revel Atlantic City's Ovation Hall,llama3-8b-8192
+q_537,How many nights did Beyoncé play at the resort?,Four nights,llama3-8b-8192
+q_538,Destiny's Child released a compilation album about which topic?,Number 1's,llama3-8b-8192
+q_539,Beyonce's documentary movie was called what?,UNKNOWN,llama3-8b-8192
+q_54,In what year did Albert Zahm begin comparing aeronatical models at Notre Dame?,1882,llama3-8b-8192
+q_540,What did Beyonce sign in 2013?,A global publishing agreement with Warner/Chappell Music,llama3-8b-8192
+q_541,"When did Destiny's Child release its album ""Love Songs""?",January 2013,llama3-8b-8192
+q_542,What was the title of the added track in Love Songs?,Nuclear,llama3-8b-8192
+q_543,At whose inauguration did she perform the National Anthem?,President Barack Obama's,llama3-8b-8192
+q_544,How many Tweets per minute did the half time show get?,"268,000",llama3-8b-8192
+q_545,When did Destiny's Child release Love Songs?,January 2013,llama3-8b-8192
+q_546,What was the new track for Love Songs?,Nuclear,llama3-8b-8192
+q_547,What did Beyoncé sing at President Obama's second inauguration?,"The American national anthem, singing along with a pre-recorded track",llama3-8b-8192
+q_548,What event did Beyoncé perform at one month after Obama's inauguration?,The Neighborhood Ball,llama3-8b-8192
+q_549,What is the name of Beyoncé's documentary film?,Life Is But a Dream,llama3-8b-8192
+q_55,Which professor sent the first wireless message in the USA?,Professor Jerome Green,llama3-8b-8192
+q_550,"How many dates did Beyonce's ""The Mrs. Carter Show"" entail?",132,llama3-8b-8192
+q_551,One of Beyonce's most successful tours yet was which one?,The Mrs,llama3-8b-8192
+q_552,"Beyonce wrote which song for the movie ""Epic""?",Rise Up,llama3-8b-8192
+q_553,Beyonce voiced a character in which animated film?,Epic,llama3-8b-8192
+q_554,When did the tour begin?,April 15,llama3-8b-8192
+q_555,Of what event was Beyonce honorary chair?,2013 Met Gala,llama3-8b-8192
+q_556,What part did she voice for the movie Epic?,Queen Tara,llama3-8b-8192
+q_557,What song did Beyonce record for the film Epic?,Rise Up,llama3-8b-8192
+q_558,What was the name of Beyoncé's tour that she started on April 15?,The Mrs,llama3-8b-8192
+q_559,How many dates did the Mrs. Carter Show World Tour have?,132,llama3-8b-8192
+q_56,In what year did Jerome Green send his first wireless message?,1899,llama3-8b-8192
+q_560,Which Amy Winehouse song did Beyoncé cover and release in May 2014?,Back to Black,llama3-8b-8192
+q_561,Beyoncé was an honorary chair of the 2013 what?,Met Gala,llama3-8b-8192
+q_562,"Which character in the film, Epic, was voiced by Beyoncé?",UNKNOWN,llama3-8b-8192
+q_563,Where did Beyonce release her 5th album to a huge surprise?,UNKNOWN,llama3-8b-8192
+q_564,When did Beyonce get her fifth consecutive number one hit album?,"December 13, 2013",llama3-8b-8192
+q_565,Where was the album released?,"June 24, 2003",llama3-8b-8192
+q_566,Who joined Beyonce on her On The Run Tour?,Jay Z,llama3-8b-8192
+q_567,Who reported Beyonce to e the top earning woman in music?,Forbes,llama3-8b-8192
+q_568,How much more were her earnings that the year before?,$115 million,llama3-8b-8192
+q_569,When did Beyoncé release her fifth studio album?,"December 13, 2013",llama3-8b-8192
+q_57,Which individual worked on projects at Notre Dame that eventually created neoprene?,Father Julius Nieuwland,llama3-8b-8192
+q_570,How many digital copies of her fifth album did Beyoncé sell in six days?,One million,llama3-8b-8192
+q_571,What song on Beyoncé's fifth studio album featured her husband?,Drunk in Love,llama3-8b-8192
+q_572,What was the name of the tour featuring both Beyoncé and Jay Z?,On the Run Tour,llama3-8b-8192
+q_573,How many awards did Beyonce take home with her at the 57th Grammy Awards?,Three,llama3-8b-8192
+q_574,Which artist beat Beyonce out for Album of the year?,UNKNOWN,llama3-8b-8192
+q_575,Which magazine did Beyonce pose on the cover for in August of 2015?,Vogue,llama3-8b-8192
+q_576,Beyonce would perform with who at Superbowl 50?,Coldplay,llama3-8b-8192
+q_577,Beyonce took home how many awards at the 57th Grammy Awards?,Three,llama3-8b-8192
+q_578,Beyonce lost to which artist for Album of the year?,Taylor Swift,llama3-8b-8192
+q_579,Who did Beyonce perform next to during Superbowl 50?,UNKNOWN,llama3-8b-8192
+q_58,What did the brother of John Zahm construct at Notre Dame?,An early wind tunnel,llama3-8b-8192
+q_580,"If Beyonce won three Grammies in 2015, how many was she nominated for?",Six,llama3-8b-8192
+q_581,On what magazine was she the cover model?,L'Officiel and Vogue,llama3-8b-8192
+q_582,Who would she perform with at Superbowl 50?,Coldplay,llama3-8b-8192
+q_583,With what British band did Beyonce perform on their album?,Coldplay,llama3-8b-8192
+q_584,How many awards was Beyoncé nominated for at the 57th annual Grammys?,Six,llama3-8b-8192
+q_585,How many awards did Beyoncé win at the 57th Annual Grammys?,Three,llama3-8b-8192
+q_586,Beyoncé lost the Album of the Year award to which entertainer?,UNKNOWN,llama3-8b-8192
+q_587,"Which magazine did Beyoncé pose for the cover, making her the first black female artist to do so?",Forbes,llama3-8b-8192
+q_588,Who did Beyonce perform with at Super Bowl 50?,Coldplay,llama3-8b-8192
+q_589,"Beyonce released the song ""Formation"" on which online music service?",Tidal,llama3-8b-8192
+q_59,Work on a germ-free-life ended up in the creation of which Notre Dame institute?,UNKNOWN,llama3-8b-8192
+q_590,Beyonce's new single released before the super bowl was called what?,Formation,llama3-8b-8192
+q_591,"What day did Beyonce release her single, Formation?","February 6, 2016",llama3-8b-8192
+q_592,How was the single released?,exclusively on music streaming service Tidal,llama3-8b-8192
+q_593,What was the name of the streaming service?,Tidal,llama3-8b-8192
+q_594,What kind of platform was the song released?,Jay Z's website Lifeandtimes,llama3-8b-8192
+q_595,When did Beyoncé release Formation?,"February 6, 2016",llama3-8b-8192
+q_596,"Where did Beyoncé exclusively release her single, Formation?",Tidal,llama3-8b-8192
+q_597,"As of April 2014, how many albums have Jay Z and Beyonce sold together?",300 million,llama3-8b-8192
+q_598,Where did Beyonce become pregnant?,Paris,llama3-8b-8192
+q_599,"Beyonce described what as the ""hardest thing she had to endure""?",the saddest thing,llama3-8b-8192
+q_6,How often is Notre Dame's the Juggler published?,Twice a year,llama3-8b-8192
+q_60,Around what time did Lobund of Notre Dame become independent?,The 1940s,llama3-8b-8192
+q_600,Who did Beyonce have a relationship with?,Jay Z,llama3-8b-8192
+q_601,When were Beyonce and Jay Z married?,"April 4, 2008",llama3-8b-8192
+q_602,Together how records have they sold ?,300 million,llama3-8b-8192
+q_603,How did Beyonce deal with the miscarriage of her child?,"The song ""Glory"" detailed the couple's pregnancy struggles, including a miscarriage Beyoncé suffered before becoming pregnant with Blue Ivy",llama3-8b-8192
+q_604,Where was Beyonce when she became pregnant?,Paris,llama3-8b-8192
+q_605,"In which music video did Beyoncé star as Jay Z's girlfriend, creating speculation about their relationship?",03 Bonnie & Clyde,llama3-8b-8192
+q_606,When were Beyoncé and Jay Z married?,"April 4, 2008",llama3-8b-8192
+q_607,How many records combined have Beyoncé and Jay Z sold?,300 million,llama3-8b-8192
+q_608,What did Beyoncé describe as the saddest thing in her life?,the saddest thing,llama3-8b-8192
+q_609,Where did Beyoncé get pregnant?,Paris,llama3-8b-8192
+q_61,In what year did Lobund at Notre Dame become an Institute?,1950,llama3-8b-8192
+q_610,Jay Z and Beyonce attended which event together in August of 2011?,2011 MTV Video Music Awards,llama3-8b-8192
+q_611,Beyonce confirmed what after performing one of her songs?,Her pregnancy,llama3-8b-8192
+q_612,How many people watched the 2011 MTV Music Awards?,12,llama3-8b-8192
+q_613,Where did she announce her pregnancy?,At the 2011 MTV Video Music Awards,llama3-8b-8192
+q_614,Why was the broadcast the most-watched in history?,UNKNOWN,llama3-8b-8192
+q_615,What even was recorded in the Guinness World Records?,most tweets per second recorded for a single event,llama3-8b-8192
+q_616,"What was the most searched term in week of Aug 29, 2011?",Beyonce pregnant,llama3-8b-8192
+q_617,What song did she perform at the MTV Awards?,Love on Top,llama3-8b-8192
+q_618,Where did Beyoncé announce her pregnancy?,At the 2011 MTV Video Music Awards,llama3-8b-8192
+q_619,What song did Beyoncé sing prior to announcing her pregnancy?,Love on Top,llama3-8b-8192
+q_62,The Lobund Institute was merged into the Department of Biology at Notre Dame in what year?,1958,llama3-8b-8192
+q_620,How many people watched the 2011 MTV Video Music Awards?,12,llama3-8b-8192
+q_621,"What was the most searched term on Google for the week of August 29, 2011?",Beyonce pregnant,llama3-8b-8192
+q_622,Jay Z has a website called what?,Lifeandtimes,llama3-8b-8192
+q_623,Which song by Jay Z talked about the pregnancy struggles?,Glory,llama3-8b-8192
+q_624,What was the name of Beyonce's daughter?,Blue Ivy Carter,llama3-8b-8192
+q_625,At what hospital was the baby delivered?,Lenox Hill Hospital in New York,llama3-8b-8192
+q_626,What was the named of the song dedicated to the child?,Glory,llama3-8b-8192
+q_627,What does B.I.C. stand for?,UNKNOWN,llama3-8b-8192
+q_628,Who was credited for her cries on the song?,Blue Ivy Carter,llama3-8b-8192
+q_629,When did Beyoncé give birth to her daughter?,"January 7, 2012",llama3-8b-8192
+q_63,When did study of a germ-free-life begin at Notre Dame?,UNKNOWN,llama3-8b-8192
+q_630,What did Beyoncé and Jay Z name their daughter?,Blue Ivy Carter,llama3-8b-8192
+q_631,What song did Jay Z release two days after Blue Ivy was born?,Glory,llama3-8b-8192
+q_632,What is included at the end of Glory?,Blue Ivy's cries,llama3-8b-8192
+q_633,How was Blue Ivy credited on Glory?,B,llama3-8b-8192
+q_634,Beyonce and Jay-Z went to a rally for the acquittal of whom?,George Zimmerman for the shooting of Trayvon Martin,llama3-8b-8192
+q_635,Beyonce sang which song during the 2009 presidential inauguration?,America the Beautiful,llama3-8b-8192
+q_636,How much did Beyonce raise for Obama at the 40/40 Club?,$4 million,llama3-8b-8192
+q_637,"What did she endorse on March 26, 2013?",Same sex marriage,llama3-8b-8192
+q_638,What did they attend in July 2013?,Notre Dame's conference affiliations for all of its sports except football and fencing changed,llama3-8b-8192
+q_639,What did she sing at the 2009 Presidential Inauguration?,"America the Beautiful"" and ""At Last",llama3-8b-8192
+q_64,Gurian created what in 1939 at Notre Dame?,The Review of Politics,llama3-8b-8192
+q_640,What song did Beyoncé perform at the 2009 inauguration of Obama?,"America the Beautiful"" and ""At Last",llama3-8b-8192
+q_641,What song did Beyoncé perform at the first inaugural dance for the Obamas.,At Last,llama3-8b-8192
+q_642,What social media platform did Beyoncé upload a picture of her paper ballot on?,Tumblr,llama3-8b-8192
+q_643,"When did Beyoncé endorse on March 26, 2013?",same sex marriage,llama3-8b-8192
+q_644,Beyonce did an interview with which magazine and was asked about feminism?,Vogue,llama3-8b-8192
+q_645,Beyonce supported which campaign that encourages leadership in girls?,The Ban Bossy campaign,llama3-8b-8192
+q_646,Where was Beyonce quoted as saying that she is a modern-day feminist?,UNKNOWN,llama3-8b-8192
+q_647,When did she say the she is a feminist?,April 2013,llama3-8b-8192
+q_648,What campaign did she contribute to?,Ban Bossy campaign,llama3-8b-8192
+q_649,What song did she release in 2013 in response to a speech?,Flawless,llama3-8b-8192
+q_65,What was the Review of Politics inspired by?,German Catholic journals,llama3-8b-8192
+q_650,What does Ban Bossy encourage?,leadership in girls,llama3-8b-8192
+q_651,"Beyoncé used words from which Nigerian author in her song, Flawless?",Chimamanda Ngozi Adichie,llama3-8b-8192
+q_652,Which campaign does Beyoncé contribute to that encourages leadership in females?,Ban Bossy campaign,llama3-8b-8192
+q_653,Beyonce signed a letter with who in 2015?,Angela Merkel and Nkosazana Dlamini-Zuma,llama3-8b-8192
+q_654,An important UN summit took place when?,September 2015,llama3-8b-8192
+q_655,The letter Beyonce signed focused on what issue?,women,llama3-8b-8192
+q_656,What had to be set in developing funding?,Priorities in development funding,llama3-8b-8192
+q_657,When did Beyonce sign a letter for ONE Campaign?,2015,llama3-8b-8192
+q_658,To whom was the letter addressed?,Angela Merkel and Nkosazana Dlamini-Zuma,llama3-8b-8192
+q_659,Who are these women?,"Mary Ann Proctor, Angela Sienko, Beyoncé, Tina",llama3-8b-8192
+q_66,Over how many years did Gurian edit the Review of Politics at Notre Dame?,44,llama3-8b-8192
+q_660,When will they meet?,UNKNOWN,llama3-8b-8192
+q_661,Who did Beyoncé sign a letter for in 2015?,Angela Merkel and Nkosazana Dlamini-Zuma,llama3-8b-8192
+q_662,Who was the letter addressed to?,Angela Merkel and Nkosazana Dlamini-Zuma,llama3-8b-8192
+q_663,What was Angela Merkel serving as in relation to the letter?,head of the G7 in Germany,llama3-8b-8192
+q_664,What did the letter want the two recipients to focus on?,women,llama3-8b-8192
+q_665,Beyonce along with Jay Z met with whom's family after their death?,Freddie Gray,llama3-8b-8192
+q_666,Beyonce with Jay Z gave lots of money to bail who out of prison?,Protesters of Freddie Gray's death,llama3-8b-8192
+q_667,Who's death caused this protest?,Freddie Gray,llama3-8b-8192
+q_668,How much bail money did they spend?,Thousands of dollars,llama3-8b-8192
+q_669,Beyonce beat out which musical artists for most paid between June 2007 and June 2008?,Madonna and Celine Dion,llama3-8b-8192
+q_67,Thomas Stritch was an editor of which publican from Notre Dame?,The Review of Politics,llama3-8b-8192
+q_670,Beyonce and Jay Z got a Guinness World record for what in 2009?,highest-earning power couple,llama3-8b-8192
+q_671,Beyonce became the highest-paid black musician in which year?,UNKNOWN,llama3-8b-8192
+q_672,"Up until May of 2015, how much is Beyonce's total worth?",$250 million,llama3-8b-8192
+q_673,"Between 2008 and 2009, which entertainers did Beyonce beat in earnings?",Madonna and Celine Dion,llama3-8b-8192
+q_674,In 2012 who placed Beyonce at 16 in the Celebrity List?,Forbes,llama3-8b-8192
+q_675,When did she and Jay Z become the highest paid black celebrity couple?,April 2013,llama3-8b-8192
+q_676,How much did she earn in 2014?,$115 million,llama3-8b-8192
+q_677,What is Beyonce's net worth in 2015?,$250 million,llama3-8b-8192
+q_678,"Who began reporting Beyoncé's annual earnings, starting in 2008?",Forbes magazine,llama3-8b-8192
+q_679,"When did Beyoncé become the highest paid black musician, ever?",April 2014,llama3-8b-8192
+q_68,Who was the president of Notre Dame in 2012?,John Jenkins,llama3-8b-8192
+q_680,Who predicted that Beyoncé would become the highest paid black entertainer?,MTV,llama3-8b-8192
+q_681,When did Jay Z and Beyoncé become the first music couple worth over a billion dollars?,2013,llama3-8b-8192
+q_682,Beyonce's range in singing is how many octaves?,Four octaves,llama3-8b-8192
+q_683,who talked about Beyonce's tone and timbre as distinctive?,Jody Rosen,llama3-8b-8192
+q_684,"Which critic called Beyonce's voice ""versatile""?",The Daily Mail,llama3-8b-8192
+q_685,Which era was credited to have influenced Beyonce's singing style by Jody Rosen?,hip hop era,llama3-8b-8192
+q_686,How many octaves does Beyonce have?,Four octaves,llama3-8b-8192
+q_687,What did the Daily Mail say about Beyonce's voice?,"versatile"", capable of exploring power ballads, soul, rock belting, operatic flourishes, and hip hop",llama3-8b-8192
+q_688,What does Rosen claim influenced Beyonce's style?,hip hop era,llama3-8b-8192
+q_689,What do other critics claim?,White celebrities who dress similarly do not attract as many comments,llama3-8b-8192
+q_69,The Kellogg Institute for International Studies is part of which university?,University of Notre Dame,llama3-8b-8192
+q_690,How many octaves does Beyoncé's voice span?,Four octaves,llama3-8b-8192
+q_691,Why is Beyoncé known as the centerpiece of Destiny's Child?,Her vocal abilities,llama3-8b-8192
+q_692,New York Times' Jon Pareles calls Beyoncé's voice velvety yet what?,"tart, with an insistent flutter and reserves of soul belting",llama3-8b-8192
+q_693,What does Jody Rosen say influenced Beyoncé's vocal style?,"The hip hop era highly influenced Beyoncé's strange rhythmic vocal style, but also finds her quite traditionalist in her use of balladry, gospel and falsetto",llama3-8b-8192
+q_694,Music from Beyonce is generally categorized as what genre?,R&B,llama3-8b-8192
+q_695,"Besides R&B, which genres does Beyonce dabble in?","1990s R&B, Earth, Wind & Fire, DeBarge, Lionel Richie, Teena Marie, The Jackson 5, New Edition, Adele, Florence and the Machine, and Prince",llama3-8b-8192
+q_696,"Beyonce mostly releases English songs, but what other language did she release songs?",Spanish,llama3-8b-8192
+q_697,Spanish songs Beyonce released were for what?,Irreemplazable and the re-release of B'Day,llama3-8b-8192
+q_698,Beyonce was coached for her Spanish songs by which American?,Rudy Perez,llama3-8b-8192
+q_699,What kind of music does Beyonce do?,Pop,llama3-8b-8192
+q_7,What is the daily student paper at Notre Dame called?,The Observer,llama3-8b-8192
+q_70,What does the Kroc Institute at Notre Dame focus on?,The causes of violent conflict and the conditions for sustainable peace,llama3-8b-8192
+q_700,What language does she mainly sing?,English,llama3-8b-8192
+q_701,What other language has she sung?,Spanish,llama3-8b-8192
+q_702,What album did she re-release in Spanish?,UNKNOWN,llama3-8b-8192
+q_703,What style of music does Beyoncé usually perform?,R&B,llama3-8b-8192
+q_704,What language did Beyoncé release several songs in?,Spanish,llama3-8b-8192
+q_705,Who coached Beyoncé for her Spanish recordings?,Rudy Perez,llama3-8b-8192
+q_706,What album did the Spanish songs come from?,Irreemplazable and the re-release of B'Day,llama3-8b-8192
+q_707,Beyonce does not create which aspect of her music?,Lossless audio,llama3-8b-8192
+q_708,An example of a song aimed towards a male audience is what?,UNKNOWN,llama3-8b-8192
+q_709,What theme was Beyonce's early music?,female-empowerment themed compositions,llama3-8b-8192
+q_71,In what year did Notre Dame begin to host the Global Adaptation Index?,2013,llama3-8b-8192
+q_710,With Jay Z what were her new themes?,man-tending anthems,llama3-8b-8192
+q_711,What does she get credits for in her music?,co-writing credits and co-producing credits,llama3-8b-8192
+q_712,What part of production does she do?,"She typically comes up with melodies and ideas during production, sharing them with producers",llama3-8b-8192
+q_713,Beyoncé's early recordings empowered who?,female,llama3-8b-8192
+q_714,"In addition to co-writing credits, Beyoncé also got what credits for most of her albums?",Executive producer credits,llama3-8b-8192
+q_715,"Rather than beats, what two things does Beyoncé usually come up with for producers?",melodies and ideas,llama3-8b-8192
+q_716,Pop Songwriter of the Year award in 2001 was awarded to whom?,Beyoncé,llama3-8b-8192
+q_717,Beyonce received the Pop Songwriter of the Year award at which event?,"American Society of Composers, Authors, and Publishers Pop Music Awards",llama3-8b-8192
+q_718,Beyonce has the same number of writing credits on number one singles as whom?,Diane Warren,llama3-8b-8192
+q_719,Beyonce joined 2 other women on what list from Billboard magazine in 2011?,Top 20 Hot 100 Songwriters,llama3-8b-8192
+q_72,What threat does the Global Adaptation Index study?,Climate change,llama3-8b-8192
+q_720,When did Beyonce become the first African American woman to win Pop songwriter of the year?,2001,llama3-8b-8192
+q_721,What place is she tied for in songwriting credits?,Third,llama3-8b-8192
+q_722,Who listed her at number 17 in their list of Top 20 hot 100 Songwriters?,Billboard magazine,llama3-8b-8192
+q_723,Where does she place in writing credits for three number one songs?,Third woman,llama3-8b-8192
+q_724,"What did Beyoncé win in 2001, making her the first black woman to do so?","Pop Songwriter of the Year award at the American Society of Composers, Authors, and Publishers Pop Music Awards",llama3-8b-8192
+q_725,Who gave Beyoncé the Pop Songwriter of the Year award in 2001?,"American Society of Composers, Authors, and Publishers",llama3-8b-8192
+q_726,"Beyoncé was one of how many women on Billboard magazine's 2011 ""Top 20 Hot 100 Songwriters"" list.",One of only three women,llama3-8b-8192
+q_727,What number was Beyoncé on the Top 20 Hot 100 Songwriters list?,17,llama3-8b-8192
+q_728,To whom did Beyonce credit as her major influence on her music?,Michael Jackson,llama3-8b-8192
+q_729,How old was Beyonce when she went to her first Michael Jackson concert as a kid?,Five,llama3-8b-8192
+q_73,How many undergrads were attending Notre Dame in 2014?,UNKNOWN,llama3-8b-8192
+q_730,Beyonce gave a tribute award to who in 2006?,Michael Jackson,llama3-8b-8192
+q_731,Beyonce cites Mariah Carey to making her want to start doing what?,practicing vocal runs as a child,llama3-8b-8192
+q_732,Who influenced Beyonce?,"Michael Jackson, Diana Ross, Whitney Houston, Mariah Carey, Aaliyah, Prince, Lauryn Hill, Sade Adu, Donna Summer, Mary J",llama3-8b-8192
+q_733,What song by Mariah Carey influenced her?,Vision of Love,llama3-8b-8192
+q_734,Who is Beyoncé's biggest musical influence?,Michael Jackson,llama3-8b-8192
+q_735,What was Beyoncé's first concert?,Michael Jackson,llama3-8b-8192
+q_736,Who does Beyoncé feel is an all-around entertainer?,Diana Ross,llama3-8b-8192
+q_737,"Who does she credit for the inspiration to ""get up there and do what she did""?",Whitney Houston,llama3-8b-8192
+q_738,What song caused Beyoncé to practice runs as a child?,Vision of Love,llama3-8b-8192
+q_739,What themes were influenced by her acting role in Dreamgirls?,Feminism and female empowerment,llama3-8b-8192
+q_74,What percentage of students at Notre Dame are the children of former Notre Dame students?,21–24%,llama3-8b-8192
+q_740,"Which singer did Beyonce honor by entertaining with her song ""Deja Vu""?",Josephine Baker,llama3-8b-8192
+q_741,Who motivated Beyonce to explore other areas of music?,Jay Z and Etta James,llama3-8b-8192
+q_742,What movie influenced Beyonce towards empowerment themes?,Dreamgirls,llama3-8b-8192
+q_743,How did Etta James influence her?,Etta James inspired Beyoncé to explore other musical genres and styles,llama3-8b-8192
+q_744,Where did she perform wearing Baker's hula skirt?,The 2006 Fashion Rocks concert,llama3-8b-8192
+q_745,What singer inspired Beyoncé's B'Day album?,Josephine Baker,llama3-8b-8192
+q_746,What song did Beyoncé sing at a 2006 concert to honor Josephine Baker?,Déjà Vu,llama3-8b-8192
+q_747,"Beyonce has noted which first lady with saying ""She proves you can do it all""?",Michelle Obama,llama3-8b-8192
+q_748,Which month and year did Beyonce credit Madonna for inspiring her to take control of her career?,February 2013,llama3-8b-8192
+q_749,"Beyonce has said that who embodies the ""definition of inspiration and a strong woman""?",Oprah Winfrey,llama3-8b-8192
+q_75,How many teams participate in the Notre Dame Bookstore Basketball tournament?,over 700,llama3-8b-8192
+q_750,Who personally influences Beyonce?,"Michael Jackson, Diana Ross, Whitney Houston, Mariah Carey, Aaliyah, Prince, Lauryn Hill, Sade Adu, Donna Summer, Mary J",llama3-8b-8192
+q_751,Hoe does she describe Oprah Winfrey?,the definition of inspiration and a strong woman,llama3-8b-8192
+q_753,How does Madonna influence her?,She inspired her to take control of her own career,llama3-8b-8192
+q_754,How does she describe Jay Z?,her husband,llama3-8b-8192
+q_755,"Who inspires Beyoncé because ""she does it all?""",Michelle Obama,llama3-8b-8192
+q_756,Who does Beyoncé describe as the definition of inspiration?,Oprah Winfrey,llama3-8b-8192
+q_757,Who does Beyoncé describe as lyrical and raw?,Jean-Michel Basquiat,llama3-8b-8192
+q_758,Who inspired Beyoncé to take control of her career?,Madonna,llama3-8b-8192
+q_759,Beyonce had an all-female tour band whose name was what?,UNKNOWN,llama3-8b-8192
+q_76,For what cause is money raised at the Bengal Bouts tournament at Notre Dame?,The Holy Cross Missions in Bangladesh,llama3-8b-8192
+q_760,Beyonce had singers in the background known by the name as?,The Mamas,llama3-8b-8192
+q_761,The Mamas members included which 3 musicians?,"Montina Cooper-Donnell, Crystal Collins and Tiffany Moniqué Riddick",llama3-8b-8192
+q_762,The Mamas first appearance was when?,2006 BET Awards,llama3-8b-8192
+q_763,What band did Beyonce introduce in 2006?,Suga Mama,llama3-8b-8192
+q_764,What song name does the band Suga Mama and a song on the B'Day album share?,Suga Mama,llama3-8b-8192
+q_765,Where did Suga Mama band make their first appearance?,The 2006 BET Awards,llama3-8b-8192
+q_766,What band supports Beyonce in her tours?,Suga Mama,llama3-8b-8192
+q_767,What is the name of Beyoncé's female tour band?,Suga Mama,llama3-8b-8192
+q_768,Suga Mama is also a song on which Beyoncé album?,B'Day,llama3-8b-8192
+q_769,What are Beyoncé's backup singers called?,Destiny's Child,llama3-8b-8192
+q_77,How many students in total were at Notre Dame in 2014?,"12,179",llama3-8b-8192
+q_770,When did The Mamas make their debut?,2006,llama3-8b-8192
+q_771,What characteristics has Beyonce received acclaim for?,critic acclaim and commercial success,llama3-8b-8192
+q_772,Which former president of Def Jam called Beyonce the greatest entertainer alive?,L,llama3-8b-8192
+q_773,For what does Beyonce receive praise?,Her stage presence and voice during live performances,llama3-8b-8192
+q_774,Who chose her as number one on his list of Best singers/ Dancers?,Jarett Wieselman of the New York Post,llama3-8b-8192
+q_775,How has L.A. Reid described her?,the greatest entertainer alive,llama3-8b-8192
+q_776,How does Alice Jones describe her?,takes her role as entertainer so seriously she's almost too good,llama3-8b-8192
+q_777,Who has Beyoncé at number one on her Five Best Singer/Dancers?,Jarett Wieselman of the New York Post,llama3-8b-8192
+q_778,Who has said that Beyoncé is the best entertainer alive?,L,llama3-8b-8192
+q_779,Beyonce self proclaimed alter ego is named what?,Sasha Fierce,llama3-8b-8192
+q_78,What percentage of undergrads live on the Notre Dame campus?,80%,llama3-8b-8192
+q_780,Her alter ego was born when according to Beyonce?,"during the making of ""Crazy in Love",llama3-8b-8192
+q_781,What year did Beyonce do away with Sasha Fierce?,2010,llama3-8b-8192
+q_782,Beyonce brought back Sasha Fierce during which event?,Revel Presents: Beyoncé Live shows in May 2012,llama3-8b-8192
+q_783,How does she describe Sasha?,"too aggressive, too strong, too sassy [and] too sexy",llama3-8b-8192
+q_784,Later what did she say about Sasha?,She announced in May 2012 that she would bring her back for her Revel Presents: Beyoncé Live shows later that month,llama3-8b-8192
+q_785,What is the name of Beyoncé's alter ego?,Sasha Fierce,llama3-8b-8192
+q_786,When did Beyoncé introduce Sasha Fierce?,2008,llama3-8b-8192
+q_787,Sasha Fierce was created during the making of what song?,Crazy in Love,llama3-8b-8192
+q_788,Who did Beyoncé tell in February 2010 that Sasha Fierce was no longer needed?,Allure magazine,llama3-8b-8192
+q_789,Beyonce's sex appeal is characterized as what?,Having a wide-ranging sex appeal,llama3-8b-8192
+q_79,How many student housing areas are reserved for Notre Dame's graduate students?,Four,llama3-8b-8192
+q_790,"Which music journalist described Beyonce as a ""crossover sex symbol?""",Touré,llama3-8b-8192
+q_791,Which word spawned from a term used to describe Beyonce in 2006?,Bootylicious,llama3-8b-8192
+q_792,Bootylicious was a song from which act that Beyonce performed with?,Destiny's Child,llama3-8b-8192
+q_793,Oxford Dictionary added which word from the 2000s dedicated to Beyonce?,Bootylicious,llama3-8b-8192
+q_794,What word is often used to describe Beyonce/,The Bey Hive,llama3-8b-8192
+q_795,When was the term added to the dictionary?,2006,llama3-8b-8192
+q_796,"What journalist wrote that Beyoncé was a ""sex symbol""?",Touré,llama3-8b-8192
+q_797,"Because of Beyoncé's physical shape, what slang term has been used to describe her?",Bootylicious,llama3-8b-8192
+q_798,In what year was the slang term from a title of a Destiny's Child song that is also used to describe Beyoncé put in the dictionary?,2006,llama3-8b-8192
+q_799,How does Beyoncé say she likes to dress off-stage?,she likes to dress sexily,llama3-8b-8192
+q_8,How many student news papers are found at Notre Dame?,Four,llama3-8b-8192
+q_80,How many dorms for males are on the Notre Dame campus?,15,llama3-8b-8192
+q_800,"in September 2010, what career area did Beyonce start exploring?",Acting,llama3-8b-8192
+q_801,Beyonce's first modelling event was at where?,UNKNOWN,llama3-8b-8192
+q_802,"""World's Most Beautiful woman"" was declared to Beyonce by which national magazine?",People,llama3-8b-8192
+q_803,Which month and year did GQ feature Beyonce on its cover?,January 2013,llama3-8b-8192
+q_804,What TV network listed Beyonce as number 1 on its 100 Sexiest Artists list?,VH1,llama3-8b-8192
+q_805,Who called Beyonce the World's most Beautiful Woman?,People,llama3-8b-8192
+q_806,Who called her Hottest Female Singer of all Time?,Complex,llama3-8b-8192
+q_807,When did she appear on the cover of GQ?,January 2013,llama3-8b-8192
+q_808,VH1 listed her at what number on their 100 Sexiest Artists list?,1,llama3-8b-8192
+q_809,What year did Beyoncé first model for Tom Ford?,2010,llama3-8b-8192
+q_81,What amount of the graduate student body at Notre Dame live on the campus?,20%,llama3-8b-8192
+q_810,"What magazine said Beyoncé was the ""World's Most Beautiful Woman""?",People,llama3-8b-8192
+q_811,What title did Complex award Beyoncé?,UNKNOWN,llama3-8b-8192
+q_812,What museum has made several models of Beyoncé in wax?,Madame Tussauds Wax Museums,llama3-8b-8192
+q_813,Which parent of Beyonce's help co-write a book?,UNKNOWN,llama3-8b-8192
+q_814,Which African-American woman before Beyonce had posed for SI Swimsuit issue?,UNKNOWN,llama3-8b-8192
+q_815,What was the title of Beyonce's mother's book?,Destiny's Style,llama3-8b-8192
+q_816,When was she on the Sports Illustrated cover?,2007,llama3-8b-8192
+q_817,Who was she the second African American on the cover after?,Tyra Banks,llama3-8b-8192
+q_818,"Beyoncé was the second African American woman featured as a swimsuit cover on the magazine, who was first?",Tyra Banks,llama3-8b-8192
+q_819,"What magazine said Beyoncé was the ""best-dressed celebrity""?",Vogue,llama3-8b-8192
+q_82,There are how many dorms for females at Notre Dame?,14,llama3-8b-8192
+q_820,Beyonce has a fan base that is referred to as what?,The Bey Hive,llama3-8b-8192
+q_821,"Before the Bey Hive, fans of Beyonce were called what?",The Beyontourage,llama-3.1-8b-instant
+q_822,Which social media company proclaimed Beyonce fans are know as the Bey Hive?,Twitter,llama-3.1-8b-instant
+q_823,What is Beyonce's fan base called?,The Bey Hive,llama-3.1-8b-instant
+q_824,What did the fans used to be called?,The Beyontourage,llama-3.1-8b-instant
+q_825,What is the latest term used to describe Beyoncé fans?,The Bey Hive,llama-3.1-8b-instant
+q_826,What was the former word given to Beyoncé fans?,The Beyontourage,llama-3.1-8b-instant
+q_827,"What word does ""Bey Hive"" derive from?",beehive,llama-3.1-8b-instant
+q_828,Beyonce has a clothing line known as what?,House of Deréon,llama-3.1-8b-instant
+q_829,Which French magazine did Beyonce show up on the cover of?,L'Officiel,llama-3.1-8b-instant
+q_83,What is Congregation of Holy Cross in Latin?,Congregatio a Sancta Cruce,llama-3.1-8b-instant
+q_830,Beyonce was seen wearing what on the french magazine that caused controversy?,blackface and tribal makeup,llama-3.1-8b-instant
+q_831,Which year did PETA spark controversy with Beyonce?,2006,llama-3.1-8b-instant
+q_832,What did PETA criticize Beyonce for in 2006?,wearing and using fur in her clothing line House of Deréon,llama-3.1-8b-instant
+q_833,What French Magazine cover did the media criticize?,L'Officiel,llama-3.1-8b-instant
+q_834,How was she dressed on the cover of L'Officiel?,In blackface and tribal makeup,llama-3.1-8b-instant
+q_835,What French magazine did Beyoncé appear in wearing blackface and tribal makeup?,L'Officiel,llama-3.1-8b-instant
+q_836,What clothing line of Beyoncé drew PETA criticism?,House of Deréon,llama-3.1-8b-instant
+q_837,What type of magazine is L'Officiel?,French fashion magazine,llama-3.1-8b-instant
+q_838,Which racial community gave criticism to Beyonce?,The African-American community,llama-3.1-8b-instant
+q_839,Which professor from Northeastern University wrote about how race correlates with these criticisms of Beyonce?,Emmett Price,llama-3.1-8b-instant
+q_84,What percentage of Notre Dame students feel they are Christian?,over 93%,llama-3.1-8b-instant
+q_840,Which company was accused of coloring Beyonce's hair?,L'Oréal,llama-3.1-8b-instant
+q_841,What did Vogue request?,"only ""natural pictures be used",llama-3.1-8b-instant
+q_842,How did L'Oreal respond to accusations of changing pictures?,it is categorically untrue,llama-3.1-8b-instant
+q_843,"In addition to her light skin color, what else has made part of the African American community criticize Beyoncé?",Her costuming and use of fur in her clothing line,llama-3.1-8b-instant
+q_844,"In 2007, which music professor said he believes this criticism does involve race as well?",Emmett Price,llama-3.1-8b-instant
+q_845,Who was accused of lightening Beyoncé's skin for an advertisement?,L'Oréal,llama-3.1-8b-instant
+q_846,What advertisement was Beyoncé's skin supposedly lightened in?,Feria hair color advertisements,llama-3.1-8b-instant
+q_847,Who did Beyoncé tell in 2013 to only use natural pictures of her rather than retouched images?,H&M,llama-3.1-8b-instant
+q_848,Artist of the Decade was bestowed upon Beyonce from which magazine?,The Observer and Billboard,llama-3.1-8b-instant
+q_849,Whats the first year that Beyonce appear on the Time 100 list?,2013,llama-3.1-8b-instant
+q_85,How often is Catholic mass held at Notre Dame in a week?,over 100 times per week,llama-3.1-8b-instant
+q_850,Beyonce than appeared again on the Time 100 list in what year?,2014,llama-3.1-8b-instant
+q_851,What did the Guardian name her?,Artist of the Decade,llama-3.1-8b-instant
+q_852,When did Beyonce first make the Time 100 List?,2013,llama-3.1-8b-instant
+q_853,When was she again on the Time 100 List and on the cover?,2014,llama-3.1-8b-instant
+q_854,Who said that she is the reigning national voice?,Baz Luhrmann,llama-3.1-8b-instant
+q_855,Who stated that Beyoncé is the most important musician of the 21st century?,Jody Rosen,llama-3.1-8b-instant
+q_856,Which publication named Beyoncé the Artist of the Decade?,"The Observer, Billboard, and The Guardian",llama-3.1-8b-instant
+q_857,What list did Beyoncé make in 2013?,"GQ's ""100 Sexiest Women of the 21st Century"" list",llama-3.1-8b-instant
+q_858,Who said Beyoncé is the heir-apparent diva of the United States?,UNKNOWN,llama-3.1-8b-instant
+q_859,What year was Beyoncé featured both on the Time 100 list as well as the cover of the issue?,2014,llama-3.1-8b-instant
+q_86,How many chapels are on the Notre Dame campus?,Fifty-seven,llama-3.1-8b-instant
+q_860,Which rock band cited Beyonce on their third album?,White Rabbits,llama-3.1-8b-instant
+q_861,"Which friend learned from Beyonce while preparing for the film, ""Country Strong?""",Gwyneth Paltrow,llama-3.1-8b-instant
+q_862,Nicky Minaj became a spokesperson for which brand of soda after seeing Beyonce involved with it?,Pepsi,llama-3.1-8b-instant
+q_863,What influenced Nicki Minaj to join the Pepsi global campaign?,Seeing Beyoncé's Pepsi commercial,llama-3.1-8b-instant
+q_864,Which band listed Beyonce as an inspiration on their latest album?,White Rabbits,llama-3.1-8b-instant
+q_865,What about Beyonce has influenced many entertainers?,Her work,llama-3.1-8b-instant
+q_866,For what film was Paltrow studying Beyonce ?,Country Strong,llama-3.1-8b-instant
+q_867,Which Indie band said Beyoncé was an inspiration for one of hteir albums?,White Rabbits,llama-3.1-8b-instant
+q_868,What was the name of the White Rabbits' album?,Milk Famous,llama-3.1-8b-instant
+q_869,Who studied Beyoncé during live concerts for research for a film's music role?,Gwyneth Paltrow,llama-3.1-8b-instant
+q_87,What amount of the student body of Notre Dame identifies as Catholic?,over 80%,llama-3.1-8b-instant
+q_870,What was the name of the film that Gwyneth Paltrow starred in as a musician?,Country Strong,llama-3.1-8b-instant
+q_871,Beyoncé's Pepsi commercial inspired which star to join Pepsi's global campaign in 2012?,Nicki Minaj,llama-3.1-8b-instant
+q_872,"VH1 declared what song the ""Greatest song of the 2000s?""",Crazy in Love,llama-3.1-8b-instant
+q_873,"How many Grammy awards did ""Crazy in Love"" win?",Two Grammy Awards,llama-3.1-8b-instant
+q_874,How many did Crazy in Love sell to become one of the greatest selling singles in history?,8 million copies,llama-3.1-8b-instant
+q_875,What type of organism was named after Beyonce in 2012?,UNKNOWN,llama-3.1-8b-instant
+q_876,A place for Beyonce in the Rock and Roll Hall of fame was awarded when?,July 2014,gemma2-9b-it
+q_877,Which of Beyonce's songs was called Greatest Song of the 2000s?,Crazy in Love,gemma2-9b-it
+q_878,How many Grammy awards did Crazy in Love get?,2,gemma2-9b-it
+q_879,How many copies did Crazy in Love sell?,8 million,gemma2-9b-it
+q_88,What was the music hall at Notre Dame called?,UNKNOWN,gemma2-9b-it
+q_880,Who released the single Girls Love Beyonce?,UNKNOWN,gemma2-9b-it
+q_881,Which publication considers Crazy in Love to be one of the top 500 songs of all time?,Rolling Stone,gemma2-9b-it
+q_882,"Who sang ""Girls Love Beyoncé"" in 2013?",Drake,gemma2-9b-it
+q_883,What did Bryan Lessard name after Beyoncé?,Scaptia beyonceae,gemma2-9b-it
+q_884,How many copies of her albums as Beyonce sold in the US?,UNKNOWN,gemma2-9b-it
+q_885,"Totaling worldwide, how many records as Beyonce sold?",118 million,gemma2-9b-it
+q_886,How many certifications was Beyonce awarded by the RIAA?,64,gemma2-9b-it
+q_887,"When Beyonce was with Destiny's Child, how many albums did she manage to sell?",60 million,gemma2-9b-it
+q_888,Who was the first female to achieve the International Artist Award at the American Music Awards?,Beyoncé,gemma2-9b-it
+q_889,How many albums has Beyonce as a solo artist sold in the U.S?,Over 15 million,gemma2-9b-it
+q_89,In what year was the Main Building at Notre Dame razed in a fire?,1879,gemma2-9b-it
+q_890,How many has she sold worldwide?,118 million,gemma2-9b-it
+q_891,How many records has she sold with Destiny's Child?,60 million,gemma2-9b-it
+q_892,When did she receive the Legend Award?,2008,gemma2-9b-it
+q_893,How many music certifications has she received in the 2000s?,64,gemma2-9b-it
+q_894,How many records has Beyoncé sold in the United States?,UNKNOWN,gemma2-9b-it
+q_895,How many records has Beyoncé sold throughout the world?,178 million,gemma2-9b-it
+q_896,Who cited Beyoncé as being the top certified artist of the 2000s?,The Recording Industry Association of America (RIAA),gemma2-9b-it
+q_897,How many certifications did RIAA give Beyoncé?,64,gemma2-9b-it
+q_898,When did Beyoncé receive the Legend Award?,2008,gemma2-9b-it
+q_899,How many Grammys has Beyonce won total with and without Destiny's Child?,20,gemma2-9b-it
+q_9,In what year did the student paper Common Sense begin publication at Notre Dame?,1987,gemma2-9b-it
+q_90,Who was the president of Notre Dame in 1879?,Rev,gemma2-9b-it
+q_900,Who is the only other woman with more Grammy awards than Beyonce?,Alison Krauss,gemma2-9b-it
+q_901,Beyonce has been awarded how many Grammy nominations?,52,gemma2-9b-it
+q_902,Beyonce holds the record for how many wins in one night by a female?,6,gemma2-9b-it
+q_903,How many awards at the Broadcast Film Critics Association Awards in 2006 did Beyonce bring home?,2,gemma2-9b-it
+q_904,How many Grammies has Beyonce won?,20,gemma2-9b-it
+q_905,How many Grammy nominations does Beyonce have?,52,gemma2-9b-it
+q_906,When did she set the record for most Grammy awards won in one night?,2010,gemma2-9b-it
+q_907,Who tied her record for most Grammies won in one night in 2012?,Adele,gemma2-9b-it
+q_908,How many Grammys has Beyoncé won?,20,gemma2-9b-it
+q_909,How many Grammy nominations has Beyoncé had?,52,gemma2-9b-it
+q_91,On what date was the rebuilding of The Main Building begun at Notre Dame after the fire that claimed the previous?,"May 17, 1879",gemma2-9b-it
+q_910,What Beyoncé song was song of the year on 2010?,Single Ladies (Put a Ring on It),gemma2-9b-it
+q_911,What movie had Beyoncé nominated as Best Actress for Golden Globe Awards?,Dreamgirls,gemma2-9b-it
+q_912,Which soda company has Beyonce partnered with since 2002?,UNKNOWN,gemma2-9b-it
+q_913,Pepsi paid Beyonce how much in 2012 for her endorsement?,$50 million,gemma2-9b-it
+q_914,Which organization wrote a letter to Beyonce after her Pepsi endorsement deal?,Center for Science in the Public Interest (CSPINET),gemma2-9b-it
+q_915,What percentage of people were positive about Beyonce's endorsement of Pepsi?,70,gemma2-9b-it
+q_916,When did Beyonce begin doing Pepsi advetisments?,2002,gemma2-9b-it
+q_917,Who was in the commercial with Beyonce in 2004?,"Britney Spears, Pink, and Enrique Iglesias",meta-llama/llama-4-maverick-17b-128e-instruct
+q_918,What did she agree to do for 50 million dollars in 2012?,endorse Pepsi,meta-llama/llama-4-maverick-17b-128e-instruct
+q_919,Who sent her a letter asking that she reconsider the Pepsi deal?,The Center for Science in the Public Interest (CSPINET),meta-llama/llama-4-maverick-17b-128e-instruct
+q_92,What did the Science Hall at Notre Dame come to be known as?,LaFortune Student Center,meta-llama/llama-4-maverick-17b-128e-instruct
+q_920,What soft drink company has Beyoncé worked with since 2002?,Pepsi,meta-llama/llama-4-maverick-17b-128e-instruct
+q_921,How much did Beyoncé get for a deal with a soft drink company in 2012?,$50 million,meta-llama/llama-4-maverick-17b-128e-instruct
+q_922,Who asked her to change her mind about the soft drink deal due to the nature of the product?,The Center for Science in the Public Interest (CSPINET),meta-llama/llama-4-maverick-17b-128e-instruct
+q_923,What organization discovered that the advertisements Beyoncé did for the soft drink company were 70% positive?,NetBase,meta-llama/llama-4-maverick-17b-128e-instruct
+q_924,"Beyonce worked with who on her perfumes, True Star and True Star Gold?",Tommy Hilfiger,meta-llama/llama-4-maverick-17b-128e-instruct
+q_925,The world's best selling celebrity perfume line belongs to whom?,Beyoncé,meta-llama/llama-4-maverick-17b-128e-instruct
+q_926,Beyonce's first fragrance had what name?,Heat,meta-llama/llama-4-maverick-17b-128e-instruct
+q_927,The Mrs. Carter Show Limited Edition was released in what year?,2013,meta-llama/llama-4-maverick-17b-128e-instruct
+q_928,How much money did The Mrs. Carter Show Limited Edition fragrance make?,$400 million,meta-llama/llama-4-maverick-17b-128e-instruct
+q_929,What was Beyonce's 2010 perfume called?,UNKNOWN,meta-llama/llama-4-maverick-17b-128e-instruct
+q_93,What type of education was pushed at Notre Dame before its embracing of national standards?,scholastic and classical emphasis,meta-llama/llama-4-maverick-17b-128e-instruct
+q_930,"When was her second perfume, Heat Rush, released?",February 2011,meta-llama/llama-4-maverick-17b-128e-instruct
+q_931,What was Beyonce's third perfume named?,UNKNOWN,meta-llama/llama-4-maverick-17b-128e-instruct
+q_932,How many editions of Heat have been launched?,six,meta-llama/llama-4-maverick-17b-128e-instruct
+q_933,Which Emporio Armani fragrance did Beyoncé promote in 2007?,Diamonds fragrance,meta-llama/llama-4-maverick-17b-128e-instruct
+q_934,What year did Beyoncé introduce her first fragrance?,2010,meta-llama/llama-4-maverick-17b-128e-instruct
+q_935,What was Beyoncé's first fragrance called?,Heat,meta-llama/llama-4-maverick-17b-128e-instruct
+q_936,How many editions of Heat exist?,six,meta-llama/llama-4-maverick-17b-128e-instruct
+q_937,How young was Beyonce when she acquired deals from American Express and L'Oreal?,18,meta-llama/llama-4-maverick-17b-128e-instruct
+q_938,What was the name of the video game that was cancelled for Beyonce?,Starpower: Beyoncé,meta-llama/llama-4-maverick-17b-128e-instruct
+q_939,When did Beyonce begin her deals with name brands?,2002,meta-llama/llama-4-maverick-17b-128e-instruct
+q_94,Which college did Notre Dame add in 1921?,College of Commerce,meta-llama/llama-4-maverick-17b-128e-instruct
+q_940,How many people lost jobs when Beyonce left the video game deal?,70,meta-llama/llama-4-maverick-17b-128e-instruct
+q_941,How was the suit settled?,out of court,meta-llama/llama-4-maverick-17b-128e-instruct
+q_942,What was the name of the video game?,Starpower: Beyoncé,meta-llama/llama-4-maverick-17b-128e-instruct
+q_943,What video game did Beyoncé back out of?,Starpower: Beyoncé,meta-llama/llama-4-maverick-17b-128e-instruct
+q_944,What company was producing the video game?,GateFive,meta-llama/llama-4-maverick-17b-128e-instruct
+q_945,How many people lost their jobs over Beyoncé backing out of the deal?,70 staff,meta-llama/llama-4-maverick-17b-128e-instruct
+q_946,When was the disagreement settled out of court?,June 2013,meta-llama/llama-4-maverick-17b-128e-instruct
+q_947,Who did Bayonce's management go into business with in 2014?,Topshop,meta-llama/llama-4-maverick-17b-128e-instruct
+q_948,"After their agreement together, Beyonce's and Topshop"" new business was called what?",Parkwood Topshop Athletic Ltd,meta-llama/llama-4-maverick-17b-128e-instruct
+q_949,What type of clothing does Parkwood Topshop Athletic Ltd produce?,"athletic, street wear brand",meta-llama/llama-4-maverick-17b-128e-instruct
+q_95,"In 1919 a new president of Notre Dame was named, who was it?",Father James Burns,meta-llama/llama-4-maverick-17b-128e-instruct
+q_950,The company and products were set to be in stores when?,fall of 2015,meta-llama/llama-4-maverick-17b-128e-instruct
+q_951,Who did Beyonce partner with in London?,Topshop,meta-llama/llama-4-maverick-17b-128e-instruct
+q_952,When will the new line launch?,April 2016,meta-llama/llama-4-maverick-17b-128e-instruct
+q_953,What is the name of Beyoncé's management company?,Parkwood Entertainment,meta-llama/llama-4-maverick-17b-128e-instruct
+q_954,Who did Beyoncé and Parkwood Entertainment partner with in October 2014?,Topshop,meta-llama/llama-4-maverick-17b-128e-instruct
+q_955,Where is Topshop located?,London,meta-llama/llama-4-maverick-17b-128e-instruct
+q_956,What was the new division of Topshop because of the partnership?,"an athletic, street wear brand",meta-llama/llama-4-maverick-17b-128e-instruct
+q_957,"When was it discovered Beyonce was a co-owner of the music service, Tidal?",UNKNOWN,meta-llama/llama-4-maverick-17b-128e-instruct
+q_958,The parent company of Tidal became under the ownership of whom in 2015?,Jay Z,meta-llama/llama-4-maverick-17b-128e-instruct
+q_959,When was it announced that Beyonce was a co-owner in Tidal?,UNKNOWN,meta-llama/llama-4-maverick-17b-128e-instruct
+q_96,Over how many years did the change to national standards undertaken at Notre Dame in the early 20th century take place?,3 years,meta-llama/llama-4-maverick-17b-128e-instruct
+q_960,What kind of service is Tidal?,music streaming service,meta-llama/llama-4-maverick-17b-128e-instruct
+q_961,What is a criticism of other streaming services?,low payout of royalties,meta-llama/llama-4-maverick-17b-128e-instruct
+q_962,What music streaming system is Beyoncé part owner of?,Tidal,meta-llama/llama-4-maverick-17b-128e-instruct
+q_963,What is the parent company of the music service Beyoncé owns part of?,Aspiro,meta-llama/llama-4-maverick-17b-128e-instruct
+q_964,Who acquired the parent company of the music service Beyoncé owns part of?,Jay Z,meta-llama/llama-4-maverick-17b-128e-instruct
+q_965,What music service is accused of providing low royalty amounts?,Spotify,meta-llama/llama-4-maverick-17b-128e-instruct
+q_966,House of Dereon became known through Beyonce and which of Beyonce's relatives?,UNKNOWN,meta-llama/llama-4-maverick-17b-128e-instruct
+q_967,Beyonce's grandma's name was?,UNKNOWN,meta-llama/llama-4-maverick-17b-128e-instruct
+q_968,Beyonce's family's company name is what?,Beyond Productions,meta-llama/llama-4-maverick-17b-128e-instruct
+q_969,What types of garments are sold by Beyonce's clothing line?,"dance, fitness and sports ranges",meta-llama/llama-4-maverick-17b-128e-instruct
+q_97,Those who attended a Jesuit college may have been forbidden from joining which Law School due to the curricula at the Jesuit institution?,Harvard Law School,meta-llama/llama-4-maverick-17b-128e-instruct
+q_970,Which two countries can you purchase Beyonce's clothing line?,"UK and USA (implied, as Topshop is a British retailer, but not directly stated; however, the answer can be derived from the fact that Topshop is British)",meta-llama/llama-4-maverick-17b-128e-instruct
+q_971,"Who partnered with Beyonce to start the clothing line, Dereon?",UNKNOWN,meta-llama/llama-4-maverick-17b-128e-instruct
+q_972,When did Beyonce and her mother start Dereon?,2005,meta-llama/llama-4-maverick-17b-128e-instruct
+q_973,Who was the business named for in Beyonce's family?,Agnèz Deréon,meta-llama/llama-4-maverick-17b-128e-instruct
+q_974,Where were items from the clothing line displayed?,UNKNOWN,meta-llama/llama-4-maverick-17b-128e-instruct
+q_975,Who shares in the House of Deréon fashion line introduction with Beyoncé?,Beyoncé's mother,meta-llama/llama-4-maverick-17b-128e-instruct
+q_976,What is the name of the House of Deréon junior collection?,Deréon,meta-llama/llama-4-maverick-17b-128e-instruct
+q_977,What type of accessory company did Beyonce partner with in 2005?,"House of Brands, a shoe company",meta-llama/llama-4-maverick-17b-128e-instruct
+q_978,"In 2010, Beyonce released Dereon to what country?",UNKNOWN,meta-llama/llama-4-maverick-17b-128e-instruct
+q_979,Back-to-school shopping was introduced in what year of Beyonce's clothing line?,UNKNOWN,meta-llama/llama-4-maverick-17b-128e-instruct
+q_98,"The Notre Dame football team got a new head coach in 1918, who was it?",Knute Rockne,meta-llama/llama-4-maverick-17b-128e-instruct
+q_980,What did Beyonce's Fashion Diva feature?,the House of Deréon collection,meta-llama/llama-4-maverick-17b-128e-instruct
+q_981,What new idea did Beyonce and her mother launch in 2009?,"Sasha Fierce for Deréon, a junior apparel label",meta-llama/llama-4-maverick-17b-128e-instruct
+q_982,When did Beyonce partner with C&A to sell fashion in Brazil?,"May 27, 2010",meta-llama/llama-4-maverick-17b-128e-instruct
+q_983,What company did Beyoncé get together with in 2005 to add shoes to her fashions?,House of Brands,meta-llama/llama-4-maverick-17b-128e-instruct
+q_984,What was the name of the game put out by Starwave Mobile in 2008 that featured Beyoncé fashions?,Beyoncé Fashion Diva,meta-llama/llama-4-maverick-17b-128e-instruct
+q_985,What was the name of the junior fashions launched in 2009 by Beyoncé and her mother?,Sasha Fierce for Deréon,meta-llama/llama-4-maverick-17b-128e-instruct
+q_986,Who did Beyoncé team up with in 2010 to get her fashions into Brazil?,C&A,meta-llama/llama-4-maverick-17b-128e-instruct
+q_987,Sasha Fierce for Deréon fashions were sold at stores that included Macy's and what other store?,Dillard's,meta-llama/llama-4-maverick-17b-128e-instruct
+q_988,"Beyonce, during October 2014, partnered with whom to produce an outdoor line of clothing?",Topshop,meta-llama/llama-4-maverick-17b-128e-instruct
+q_989,Beyonce and Topshops first products were to be sold in stores when?,April 2016,meta-llama/llama-4-maverick-17b-128e-instruct
+q_99,What was the amount of wins Knute Rockne attained at Notre Dame while head coach?,105 wins,meta-llama/llama-4-maverick-17b-128e-instruct
+q_990,What is the new business called?,Parkwood Topshop Athletic Ltd,meta-llama/llama-4-maverick-17b-128e-instruct
+q_991,What is Beyonce's percentage of ownership in the new venture?,50%,meta-llama/llama-4-maverick-17b-128e-instruct
+q_992,When will the full line appear?,April 2016,meta-llama/llama-4-maverick-17b-128e-instruct
+q_993,What company did Beyoncé contract with to sell clothing in England?,UNKNOWN,meta-llama/llama-4-maverick-17b-128e-instruct
+q_994,What is the name of the equal partnership's fashion line between Beyoncé and the British company to come out in 2016?,Parkwood Topshop Athletic Ltd,meta-llama/llama-4-maverick-17b-128e-instruct
+q_995,What type of clothing does the British partnership with Beyoncé sell?,activewear,meta-llama/llama-4-maverick-17b-128e-instruct
+q_996,What national disaster caused Beyonce to create the Survivor Foundation?,Hurricane Katrina,meta-llama/llama-4-maverick-17b-128e-instruct
+q_997,"How much cash did Beyonce put into the venture, the Survivor Foundation at startup?","$250,000",meta-llama/llama-4-maverick-17b-128e-instruct
+q_998,What hurricane years later after Katrina did the organization provide support for?,Hurricane Ike three years later,meta-llama/llama-4-maverick-17b-128e-instruct
+q_999,What did Beyonce and Rowland found in 2005?,Survivor Foundation,meta-llama/llama-4-maverick-17b-128e-instruct
